@@ -1,11 +1,11 @@
-import "./Footer.scss";
+import "./css/Footer.scss";
 
 const Footer = () => {
 
   return (
-    <div className="Footer">
+    <footer className="footer">
       Footer...
-    </div>
+    </footer>
   )
 }
 

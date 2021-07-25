@@ -1,0 +1,31 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+
+  /*? Heights */
+  --navbar-height-pc: 7vh;
+  --footer-height-pc: 7vh;
+
+  /*? Color Themes */
+  --theme1-100: #8135f3;
+  --theme2-100: #2c2f33;
+  --theme3-100 : #f8f8f8;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: var(--theme2-100);
+}
+
+main {
+  margin-top: var(--navbar-height-pc);
+  min-height: calc(100vh - var(--navbar-height-pc) - var(--footer-height-pc));
+}

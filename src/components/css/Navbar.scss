@@ -1,0 +1,114 @@
+header.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  height: var(--navbar-height-pc);
+  width: 100%;
+
+  background-color: var(--theme2-100);
+  color: var(--theme3-100);
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+  box-shadow: 0 0 1vh 0 var(--theme2-100);
+  
+  font-size: 2vh;
+  
+  div.navbar-itm-ctnr {
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+    
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    
+    a.navbar-itm,
+    span.navbar-itm {
+      position: relative;
+
+      margin: 0 0.3vh;
+      padding: 0 2.5vh;
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      color: var(--theme3-100);
+      cursor: pointer;
+
+      border-radius: 0.5vh;
+
+      &:hover {
+        background-color: var(--theme3-100);
+        color: var(--theme2-100);
+
+        transition-duration: 0.2s;
+        transition-timing-function: ease-out;
+      }
+    }
+
+    span.drpdwn {
+      position: relative;
+
+      &:hover {
+        div.drpdwn-menu {
+          display: flex;
+        }
+      }
+
+      div.drpdwn-menu {
+        position: absolute;
+        
+        top: 100%;
+        left: 50%;
+        transform: translate(-50%, 0);
+
+        background-color: var(--theme2-100);
+
+    
+        flex-direction: column;
+        display: none;
+        border-radius: 0.65vh;
+        
+        a.drpdwn-itm {
+          color : var(--theme3-100) !important;
+
+          margin: 0.5vh;
+          padding: 3vh 6vh;
+          border-radius: 0.65vh;
+
+          display: flex;
+          flex-wrap: nowrap;
+          justify-content: center;
+          align-items: center;
+
+          white-space: nowrap;
+
+          &:hover {
+            background-color: var(--theme3-100);
+            color: var(--theme2-100) !important;
+          }
+        }
+      }
+
+    }
+  }
+}
+
+@media screen and (min-width: 500px) {
+  div.mob-menu {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  div.mob-menu {
+    display: block;
+  }
+}

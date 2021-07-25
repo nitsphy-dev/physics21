@@ -2,14 +2,14 @@ import { lazy, Suspense } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 
-import Navbar from './comp/Navbar';
-import Error404 from './comp/Error404';
-import Loading from './comp/Loading';
+import Navbar from './components/Navbar';
+import Error404 from './pages/Error404';
+import Loading from './components/Loading';
 
 import './App.css';
 
-const Home = lazy(() => import('./Home'));
-const Footer = lazy(() => import('./comp/Footer'));
+const Home = lazy(() => import('./pages/Home'));
+const Footer = lazy(() => import('./components/Footer'));
 
 function App() {
 	return (
@@ -20,11 +20,15 @@ function App() {
 
 					<Switch>
 						<Route exact path='/'>
-							<Home />
+							<Home
+								title="Physics Dept. | NIT Silchar"
+							/>
 						</Route>
 
 						<Route path='/'>
-							<Error404 />
+							<Error404
+								title="Error404 - Physics Dept. | NIT Silchar"
+							/>
 						</Route>
 					</Switch>
 
