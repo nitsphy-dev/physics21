@@ -26,7 +26,7 @@ header.navbar {
     display: flex;
     flex-direction: row;
     height: 80%;
-    
+
     a.navbar-itm,
     span.navbar-itm {
       position: relative;
@@ -80,7 +80,7 @@ header.navbar {
           color : var(--theme3-100) !important;
 
           margin: 0.5vh;
-          padding: 3vh 6vh;
+          padding: 1.5vh 2vh;
           border-radius: 0.65vh;
 
           display: flex;
@@ -111,4 +111,8 @@ header.navbar {
   div.mob-menu {
     display: block;
   }
+}
+
+.drpdwn .fa-chevron-down {
+  color: var(--theme1-100) !important;
 }
