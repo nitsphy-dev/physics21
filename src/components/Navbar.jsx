@@ -26,7 +26,7 @@ const Navbar = () => {
 				<Link to='/' className='navbar-itm scrl-top'>
 					Home
 				</Link>
-				<Link to='/about' className='navbar-itm scrl-top'>
+				<Link to='/about-us' className='navbar-itm scrl-top'>
 					About Us
 				</Link>
 				<Link to='/admissions' className='navbar-itm scrl-top'>

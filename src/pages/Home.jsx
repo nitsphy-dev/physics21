@@ -1,5 +1,5 @@
 //* React Imports
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 //* Module Imports
 import Carousel from '../components/Carousel';
@@ -24,8 +24,6 @@ const Home = props => {
 				setData(res);
 			});
 	}, []);
-
-	console.log(data);
 
 	return (
 		<main id='home'>
@@ -73,28 +71,28 @@ const Home = props => {
 					<div className='heading'>News and Updates</div>
 					{data &&
 						data.updates.map((update, updateIndex) => (
-							<>
-								<a key={updateIndex} href={update.link}>
-									<i class='fas fa-bullseye'></i> {update.new && <div>NEW</div>}{' '}
-									{update.text}
+							<React.Fragment key={updateIndex}>
+								<a href={update.link}>
+									<i className='fas fa-bullseye'></i>{' '}
+									{update.new && <div>NEW</div>} {update.text}
 								</a>
 								<br />
 								<br />
-							</>
+							</React.Fragment>
 						))}
 				</div>
 				<div className='events'>
 					<div className='heading'>Events</div>
 					{data &&
 						data.events.map((event, eventIndex) => (
-							<>
-								<a key={eventIndex} href={event.link}>
-									<i class='fas fa-bullseye'></i> {event.new && <div>NEW</div>}{' '}
-									{event.text}
+							<React.Fragment key={eventIndex}>
+								<a href={event.link}>
+									<i className='fas fa-bullseye'></i>{' '}
+									{event.new && <div>NEW</div>} {event.text}
 								</a>
 								<br />
 								<br />
-							</>
+							</React.Fragment>
 						))}
 				</div>
 			</div>
