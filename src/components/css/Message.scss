@@ -1,16 +1,70 @@
 div.message {
 	position: relative;
-	padding-top: 2vh;
+	padding-top: 7.5vh;
 	width: 100%;
+	box-sizing: border-box;
 
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
+	margin: 3vh 0;
 
-	div.title {
-		min-width: 100%;
+	div.heading {
+		min-width: 80%;
 		text-align: center;
-		background-color: red;
 		font-size: 4vh;
+		border-bottom: 0.2vh solid var(--theme2-100);
+		margin: 0 auto;
+	}
+
+	div.head {
+		min-width: 40%;
+		max-width: 40%;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+
+		div.head-img {
+			position: relative;
+			height: 25vh;
+			aspect-ratio: 1/1;
+			border-radius: 50%;
+			overflow: hidden;
+			margin: 4vh;
+
+			img {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				height: 100%;
+				overflow: none;
+			}
+		}
+
+		div.name {
+			font-size: 3vh;
+		}
+
+		div.title {
+			font-size: 2.4vh;
+		}
+
+		div.phone {
+			margin-top: 2vh;
+			font-size: 2.4vh;
+		}
+
+		div.mail {
+			font-size: 2.4vh;
+		}
+	}
+
+	div.msg {
+		min-width: 50%;
+		max-width: 50%;
+		padding: 5vh 2vh;
+		text-align: justify;
+		font-size: 2.5vh;
 	}
 }
