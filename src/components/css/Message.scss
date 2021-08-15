@@ -1,0 +1,16 @@
+div.message {
+	position: relative;
+	padding-top: 2vh;
+	width: 100%;
+
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+	div.title {
+		min-width: 100%;
+		text-align: center;
+		background-color: red;
+		font-size: 4vh;
+	}
+}
