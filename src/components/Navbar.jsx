@@ -74,6 +74,9 @@ const Navbar = () => {
 						<Link to='/programs/msc' className='drpdwn-itm'>
 							Postgraduate Programs
 						</Link>
+						<Link to='/programs/btech' className='drpdwn-itm'>
+							Bachelor Programs
+						</Link>
 					</div>
 				</span>
 
