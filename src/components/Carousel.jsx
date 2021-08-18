@@ -15,7 +15,7 @@ const Carousel = props => {
 				className='btn left'
 				onClick={() => {
 					setClickIndex(i => {
-						if (i != 0) return --i % imgs.length;
+						if (i !== 0) return --i % imgs.length;
 						else return imgs.length - 1;
 					});
 				}}>
