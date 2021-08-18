@@ -19,6 +19,7 @@ html {
 :root {
 	/*? Heights */
 	--navbar-height-pc: 7vh;
+	--navbar-height-mob: 10vh;
 	--footer-height-pc: 7vh;
 
 	/*? Color Themes */

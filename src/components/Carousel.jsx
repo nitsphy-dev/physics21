@@ -15,13 +15,14 @@ const Carousel = props => {
 				className='btn left'
 				onClick={() => {
 					setClickIndex(i => {
-						return --i % imgs.length;
+						if (i != 0) return --i % imgs.length;
+						else return imgs.length - 1;
 					});
 				}}>
 				<i className='fas fa-chevron-left' />
 			</div>
 			<div className='img'>
-				<img src={`/img/${imgs[clickIndex]}`} alt='Img not supported' />
+				<img src={imgs[clickIndex]} alt='Img not supported' />
 			</div>
 			<div
 				className='btn right'

@@ -32,7 +32,7 @@ const Home = props => {
 				<h2>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</h2>
 			</div>
 
-			<Carousel imgs={['carouselHome1.jpg', 'carouselHome2.jpg']} />
+			<Carousel imgs={['/img/carouselHome1.jpg', '/img/carouselHome2.jpg']} />
 
 			<div className='about-dept'>
 				<div className='heading'>About The Department Of Physics</div>
