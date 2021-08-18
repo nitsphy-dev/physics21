@@ -1,6 +1,5 @@
 // React imports
 import React, { useState , useEffect } from "react";
-import { Link } from "react-router-dom";
 
 // CSS import
 import "./css/Admissions.scss";
@@ -38,7 +37,7 @@ const Admissions = (props) => {
       <div className="important-msg">
         {data && 
           <>
-            {data.msc.ccmn.organiser} <a target="_blank" href={data.msc.ccmn.link}>{data.msc.ccmn.linkMsg}</a>
+            {data.msc.ccmn.organiser} <a rel="noreferrer" target="_blank" href={data.msc.ccmn.link}>{data.msc.ccmn.linkMsg}</a>
           </>
         }
       </div>
@@ -75,7 +74,7 @@ const Admissions = (props) => {
         The admission is offered twice in a year, during July - August and December - January sessions.
       </div>
       <div className="important-msg">
-      The details of the Ph. D. advertisement can be found <a target="_blank" href="http://www.nits.ac.in/admissions/phdadmission.php">here</a>
+      The details of the Ph. D. advertisement can be found <a rel="noreferrer" target="_blank" href="http://www.nits.ac.in/admissions/phdadmission.php">here</a>
       </div>
     </main>
   );
