@@ -1,0 +1,21 @@
+{
+  "msc" : {
+    "ccmn" : {
+      "organiser": "CCMN-2021 is being organized by MNIT Jaipur.",
+      "link": "https://ccmn.admissions.nic.in/WebInfo21/Page/Page?PageId=2&LangId=P",
+      "linkMsg" : "Click here for CCMN 2021. "
+    },
+    "coordinator" : [
+      {
+        "name":"Dr. Rupak Dutta",
+        "phone" : "+91 8812848747",
+        "email" : "rupak@phy.nits.ac.in"
+      } , 
+      {
+        "name" : "Dr. Saumya R. Mohapatra",
+        "phone" : "+91 7896234525",
+        "email" : "saumya@phy.nits.ac.in"
+      }
+    ]
+  }
+}
