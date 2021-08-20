@@ -1,0 +1,66 @@
+main.faculty {
+  div.heading {
+    width: 80%;
+    margin: 5vh auto 3vh auto;
+    border-bottom: 0.2vh solid var(--theme1-100);
+
+    font-size: 3.5vh;
+    text-align: center;
+  }
+
+  div.title {
+    font-size: 4.5vh !important;
+  }
+
+  div.sub-title {
+    font-size: 4vh;
+    width: 70%;
+  }
+
+  div.important-msg {
+    font-weight: bold;
+    text-align: center;
+    width: 60%;
+    font-size: 3vh;
+    margin: 0 auto 7vh auto;
+    border-top: 0.2vh solid var(--theme1-100);
+    border-bottom: 0.2vh solid var(--theme1-100);
+  }
+
+  a {
+    color: rgb(93, 191, 230);
+  }
+
+  div.contact-heading {
+    font-size: 3vh;
+    width: 30%;
+  }
+
+  div.contact {
+    width: 90%;
+    margin: 0 auto 7vh auto;
+    display: flex;
+
+    div.contact-details {
+      width: 50%;
+      text-align: center;
+      font-size: 2.4vh;
+      div.name {
+        font-weight: bold;
+      }
+
+      // div.details{
+
+      // }
+    }
+  }
+
+  div.msg {
+    width: 90%;
+    margin: 0 auto 7vh auto;
+    box-sizing: border-box;
+    padding: 2vh 4vh;
+    text-align: justify;
+    font-size: 2.6vh;
+  }
+}
