@@ -1,0 +1,60 @@
+{
+  "faculty": [
+    {
+      "name": "Professor Asim Roy",
+      "desg": "Professor",
+      "phone": "+91 9435170874",
+      "email": "asim@phy.nits.ac.in",
+      "img": "/img/faculties/asim_roy_28-05-15-10-58-43.jpg"
+    },
+    {
+      "name": "Dr. Subrat Kumar Barik",
+      "desg": "Assistant Professor Grade-I",
+      "phone": "03842-242914",
+      "email": "subrat@phy.nits.ac.in",
+      "img": "/img/faculties/s_k_barik-8874253039.jpg"
+    },
+    {
+      "name": "Dr. Avijit Chowdhury",
+      "desg": "Assistant Professor Grade I",
+      "phone": "+91 8486413558",
+      "email": "avijit@phy.nits.ac.in",
+      "img": "/img/faculties/Avijit Chowdhury_09-10-20-12-59-20.jpg"
+    },
+    {
+      "name": "Dr. Ranjith G. Nair",
+      "desg": "Assistant Professor",
+      "phone": "+91 9401519326",
+      "email": "rgnair@phy.nits.ac.in",
+      "img": "/img/faculties/Renjith _0310_27-08-16-20-56-42.jpg"
+    },
+    {
+      "name": "Dr. Rupak Dutta",
+      "desg": "Assistant Professor",
+      "phone": "+91 8812848747",
+      "email": "rupak@phy.nits.ac.in",
+      "img": "/img/faculties/rupak_dutta_13-08-15-13-23-09.jpg"
+    },
+    {
+      "name": "Dr. Saumya R. Mohapatra",
+      "desg": "Assistant Professor",
+      "phone": "+91 7896234525",
+      "email": "saumya@phy.nits.ac.in",
+      "img": "/img/faculties/Saumya_Ranjan_Mohapatra_23-04-15-15-30-47.jpg"
+    },
+    {
+      "name": "Dr. Subhasis Panda",
+      "desg": "Assistant Professor",
+      "phone": "+91 8399920286",
+      "email": "subhasis@phy.nits.ac.in",
+      "img": "/img/faculties/subhasis_panda_30-04-15-15-40-10.jpg"
+    },
+    {
+      "name": "Dr. P. Srinivasan",
+      "desg": "Assistant Professor, Grade I",
+      "phone": "+91 9488046400",
+      "email": "srininits@gmail.com",
+      "img": "/img/faculties/srini1_25-04-20-09-53-40.jpg"
+    }
+  ]
+}
