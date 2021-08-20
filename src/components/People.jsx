@@ -19,7 +19,7 @@ import useStyles from "./css/People.styles";
 import ViewMore from "./ViewMore";
 
 const People = (props) => {
-  const { name, desg, phone, email, img } = props;
+  const { name, desg, phone, email, img } = props.data;
   const classes = useStyles();
 
   // For dialog box
@@ -62,15 +62,7 @@ const People = (props) => {
             </Button>
 
             {/* Dialog box */}
-            <ViewMore
-              name={name}
-              email={email}
-              phone={phone}
-              img={img}
-              desg={desg}
-              whenClose={handleClose}
-              open={open}
-            />
+            <ViewMore data={props.data} whenClose={handleClose} open={open} />
           </div>
         </AccordionDetails>
       </Accordion>

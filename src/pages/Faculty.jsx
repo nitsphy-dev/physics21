@@ -29,13 +29,7 @@ const Hod = (props) => {
       {data &&
         data.faculty.map((faculty) => (
           <React.Fragment key={faculty.name}>
-            <People
-              name={faculty.name}
-              desg={faculty.desg}
-              phone={faculty.phone}
-              email={faculty.email}
-              img={faculty.img}
-            />
+            <People data={faculty} />
             <br />
           </React.Fragment>
         ))}
