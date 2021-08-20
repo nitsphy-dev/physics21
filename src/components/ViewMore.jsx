@@ -58,14 +58,19 @@ const ViewMore = (props) => {
                 <br />
                 Phone: {phone}
                 <br />
-                Email: <a href={`mailto:${email}`}>{email}</a>
+                Email:{" "}
+                <a target="_blank" href={`mailto:${email}`}>
+                  {email}
+                </a>
               </div>
             </div>
             <Divider />
             <div className={classes.dialogContentDetail}>
               <div className={classes.dialogContentKey}>Alternate email:</div>
               <div className={classes.dialogContentValue}>
-                <a href={`mailto:${details.altEmail}`}>{details.altEmail}</a>
+                <a target="_blank" href={`mailto:${details.altEmail}`}>
+                  {details.altEmail}
+                </a>
               </div>
             </div>
             <Divider />
@@ -81,7 +86,9 @@ const ViewMore = (props) => {
                 URL of Web Profile:
               </div>
               <div className={classes.dialogContentValue}>
-                <a href={details.profileURL}>{details.profileURL}</a>
+                <a target="_blank" href={details.profileURL}>
+                  {details.profileURL}
+                </a>
               </div>
             </div>
             <Divider />
