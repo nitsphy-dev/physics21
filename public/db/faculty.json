@@ -5,56 +5,553 @@
       "desg": "Professor",
       "phone": "+91 9435170874",
       "email": "asim@phy.nits.ac.in",
-      "img": "/img/faculties/asim_roy_28-05-15-10-58-43.jpg"
+      "img": "/img/faculties/asim_roy_28-05-15-10-58-43.jpg",
+      "details": {
+        "altEmail": "28.asim@gmail.com",
+        "dateOfJoining": "",
+        "profileURL": "",
+        "academicQualifications": {
+          "qualificationDetails": "",
+          "currentlyTeachingSubject": "Quantum Mechanics-I, Statistical Mechanics"
+        },
+        "experience": {
+          "experienceDuration": "",
+          "experienceDesc": "",
+          "specialization": "Semiconductor nanostructure, Resistive Random Access Memory, Science, High-k for CMOS Technology",
+          "teachingInterest": "",
+          "researchInterest": "",
+          "administrativeInterest": "Dean (RC), HOD Physics (2011 to 2013), Ex Warden (2009-2012) Faculty In-Charge Central Library, NIT Silchar (2008-2009),",
+          "biographicalSketch": "Academic Ph D -IIT Kharagpur Professional Assistant Professor NIT Silchar, Silchar Assam, India. Reviewer Journal of Applied Physics (AIP) Sponsored Research Project Study of Bi-Layered Pervoskite oxides: Thin films for non-volatile ferroelectric memory applications (AICTE) Rs. 17.50 lakhs, 2011 in progress Investigation of some binary metal oxide materials for resistive switching memory applications (AICTE) Rs. 21.00 lakhs, 2011 in progress Modernization of thin film laboratory (AICTE) Rs. 10.00 lakhs 2012Visits AboardCambridge University, Cambridge, UK (Conference “ISIF 2011”) San Juan, Puerto Rico, USA (Conference “ISIF 2011”)",
+          "phdScholarsGuided": "04 ( Four) Completed) 01 (one) undergoing Past Ph D students 1. Dr. Nandini Roy, currently at NIT Agartala ( contractual faculty) 2. Dr. Madhuchhanda Nath, currently at NIT Silchar Technical Assistant. 3. Dr. Pranab Kumar Sarkar, Currently regular faculty at Assam University, 4. Dr. Snigdha Bhattacharjee, current faculty at Karimganj Polytechnic. Undergoing: 1. Ujjal Das",
+          "pgScholarsGuided": "",
+          "achievements": "",
+          "projects": "",
+          "booksPublished": ""
+        },
+        "publications": {
+          "internationalJournals": [
+            "Electrical Reliability, Multilevel Data Storage and Mechanical Stability of MoS2-PMMA Nanocomposite Based Non-volatile Memory Device S Bhattacharjee, P Sarkar, M Prajapat, A Roy Journal of Physics D: Applied Physics",
+            "Probing electron density across Ar+ irradiation-induced self-organized TiO2− x nanochannels for memory application A Barman, CP Saini, PK Sarkar, A Roy, B Satpati, D Kanjilal, SK Ghosh, ... Applied Physics Letters 108 (24), 244104",
+            "Multilevel programming in Cu/NiO y/NiO x/Pt unipolar resistive switching devices PK Sarkar, S Bhattacharjee, A Barman, A Kanjilal, A Roy Nanotechnology 27 (43), 435701",
+            "Multilevel resistance state of Cu/La2O3/Pt forming-free switching devices PK Sarkar, M Prajapat, A Barman, S Bhattacharjee, A Roy Journal of Materials Science 51 (9), 4411-4418",
+            "Interfacial and electrical properties of radio frequency sputtered ultra-thin TiO2 film for gate oxide applications M Nath, A Roy Journal of Materials Science: Materials in Electronics 26 (11), 9107-9116",
+            "Morphological, Optical, and Raman Characteristics of ZnO Nanoflowers on ZnO-Seeded Si Substrates Synthesized by Chemical Method N Roy, A Chowdhury, T Paul, A Roy Journal of Nanoscience and Nanotechnology 16 (9), 9738-9745",
+            "Improvement of Reliability of Polymer Nanocomposite Based Transparent Memory Device by Oxygen Vacancy Rich ZnO Nanorods S Bhattacharjee, PK Sarkar, N Roy, A Roy Microelectronic Engineering",
+            "10 2014 Zinc vacancy mediated structural phase transition and photoluminescence in nanocrystalline ZnS thin films N Roy, A Roy Journal of Materials Science: Materials in Electronics",
+            "Observation of negative differential resistance and electrical bi-stability in chemically synthesized ZnO nanorods N Roy, A Chowdhury, A Roy Journal of Applied Physics",
+            "Incorporation of SnO 2 nanoparticles in PMMA for performance enhancement of a transparent organic resistive memory device PK Sarkar, S Bhattacharjee, M Prajapat, A Roy RSC Advances 5 (128), 105661-105667",
+            "A. Roy et al Characteristics of Strontium Bismuth Tantalate Film with ZrO2 buffer Layer for Non-Volatile Memory Application Integrated Ferroelectrics Pp.119-124, Vol.124, Issue no.1 2011",
+            "B. Panda A. Roy et al Thickness and temperature dependent electrical characteristics of crystalline BaxSr1-x TiO3 thin films,, Journal of Applied Physics pp. 64116–64123 Vol. 101, No.6, 2007",
+            "A. Roy et al Structural and electrical properties of metal–ferroelectric–insulator–semiconductor structure of Al/SrBi2Ta2O9/HfO2/Si using HfO2 as buffer layer, J. Phys.D: Appl. Phys.pp. 95408–95416 Vol. 41, No. 9, 2008",
+            "A. Roy et al Interfacial and electrical properties of SrBi2Ta2O9/ZrO2/Si heterostructures for ferroelectric memory devices, Journal of Applied Physics pp. 64103–64108 Vol. 104, No.6, 2008",
+            "A. Roy et al Temperature dependent leakage current behavior of pulsed laser ablated SrBi2Ta2O9 thin films Journal of Applied Physics Pp.44103–44108 Vol. 105, No.4, 2009"
+          ],
+          "nationalJournals": [],
+          "internationalConf": [
+            "N. Roy & A. Roy et al Optical Characteristics of Pulsed Laser Deposited Ba0.8Sr0.2TiO3 Thin Films Grown on Fused Quartz Substrate AIP Conference Proceeding 1451, 139 (2012); doi: 10.1063/1.4732393"
+          ],
+          "nationalConf": []
+        }
+      }
     },
     {
       "name": "Dr. Subrat Kumar Barik",
       "desg": "Assistant Professor Grade-I",
       "phone": "03842-242914",
       "email": "subrat@phy.nits.ac.in",
-      "img": "/img/faculties/s_k_barik-8874253039.jpg"
+      "img": "/img/faculties/s_k_barik-8874253039.jpg",
+      "details": {
+        "altEmail": "subrat.nits@gmail.com",
+        "dateOfJoining": "2010-06-09",
+        "profileURL": "",
+        "academicQualifications": {
+          "qualificationDetails": "MSc (Utkal University; 1996); PhD (Vidyasagar University, WB & IIT Kharagpur; 2009).",
+          "currentlyTeachingSubject": "Engineering Physics, Classical Mechanics, Electronics"
+        },
+        "experience": {
+          "experienceDuration": "23 years (Teaching: 14 yrs. in UG & PG Level)",
+          "experienceDesc": "Assistant Professor, NIT SILCHAR (June 2010 - till date) ; GGV, Bilaspur (A Central University) (August 2009 - April 2010) ; Teaching / Research Assistant, IIT Kharagpur (June 2000 - May 2010); Lecturer, N.G. College, BHADRAK under Govt. of Odisha (August 1996 - May 2000).",
+          "specialization": "Experimental Condensed Matter Physics",
+          "teachingInterest": "Engineering Physics; Classical Mechanics; Electronics",
+          "researchInterest": "Multiferroics; Structural phase transitions in oxide perovskites; Ferroelectric material",
+          "administrativeInterest": "Member, DUPC, DPPC (2018-2020); HOD, Physics (Aug-2013 to July-2015).",
+          "biographicalSketch": "Academic: PhD, Vidyasagar University, WB / IIT Kharagpur: 2004 - 2009; MSc (Physics with Electronics & Instrumentation - First Class: Utkal University, Odisha: 1996); BSc (Physics Honours) - First Class & Distinction: Utkal University, Odisha: 1994).",
+          "phdScholarsGuided": "",
+          "pgScholarsGuided": "",
+          "achievements": "1. Received an Outstanding Reviewer Award (2016) from Journal of Alloys and Compounds-Elsevier 2. Editorial Board Member: International Journal of Composite and Constituent Materials; International Journal of Ceramics and Ceramic Technology. 3. Reviewer of International Journals: Materials Chemistry and Physics (Elsevier). Journal of Electroceramics (Elsevier). Journal of Alloys and Compounds (Elsevier). Journal of Inorganic and Organometallic Polymers and Materials (Springer). Applied Physics A: material science & processing (Springer). Proceedings of the National Academy of Sciences, India Section A: Physical Sciences (Springer). Defence Science Journal (Peer-reviewed international journal of DRDO). Advanced Materials Letters (VBRI press). 4. Membership of Professional Societies: Life Member of Materials Research Society of India; Patron member of Orissa Physical Society; Life Member of Indian Science Congress Association 5. Short Term Training Programme organized: Organized a STTP on “Advances in Laser and Spectroscopy”; December 26-30, 2013 sponsored by TEQIP-II, NIT Silchar.",
+          "projects": "AICTE sponsored \"Synthesis & Characterization of BST-BFO composites for Devices\" during 2012-2015; 16 Lakhs.",
+          "booksPublished": ""
+        },
+        "publications": {
+          "internationalJournals": [
+            "S.K. Barik, K.K. Gogoi, S. Sahoo, H.J. Kim and S. Hajra, A lead-free perovskite Bi1/2(Na1/4Li1/4)TiO3: Investigation on structural, electrical properties and device application, Journal of Materials Science:Materials in Electronics 32 (2021) 4629 (Springer).",
+            "S.K. Barik, Structural and electrical features of lead-free ferroelectric: Li1/2Bi1/2TiO3, Indian Journal of Physics 95 (2021) 67 (Springer).",
+            "S.K. Barik, S. Ahmed, and N. Kumar, Structural, thermal, electrical and magnetic features of a new lead-free electronic material: (SbLi)1/2(Fe2/3W1/3)O3, Materials Chemistry and Physics 241 (2020) 122393 (Elsevier).",
+            "S.K. Barik and A R Atique Ulla, Relaxation mechanism and conductivity studies of lead free ceramics: Fe1/2(NaLi)1/4TiO3, Modern Physics Letters B 33 (2020) 2050081 (World Scientific, Singapore).",
+            "S.K. Barik, S. Nath, S. Hajra, and R.N.P. Choudhary, Studies of relaxation mechanism and conductivity property of lead free electronic material: Ba0.7Sr0.3TiO3, Modern Physics Letters B 33 (2019) 1950352 (World Scientific, Singapore).",
+            "S. Nath, S.K. Barik, and R.N.P. Choudhary, Relaxation mechanism, conductivity and magnetoelectric property studies in (NdLi)1/2(Fe2/3Mo1/3)O3 multiferroic, Indian Journal of Physics 93 (8) (2019) 1001-1007 (Springer).",
+            "S. Ahmed, S.K.Barik, and S. Hajra, Investigation of electric, dielectric, and magnetic properties of Li+2 and Mo+6 co-doped BiFeO3, Applied Physics A 125 (2019) 303 (Springer).",
+            "S. K. Barik, S. Ahmed, and S. Hajra, Studies of dielectric relaxation and impedance analysis of new electronic material: (Sb1/2Na1/2)(Fe2/3Mo1/3)O3, Applied Physics A 125 (2019) 200 (Springer).",
+            "S. Nath, S.K. Barik, S. Hajra, and R.N.P. Choudhary, Relaxation mechanism, conductivity and multiferroic property studies in (La1/2Li1/2)(Fe2/3W1/3)O3, Physica B: Condensed Matter 567 (2019) 100-108 (Elsevier).",
+            "S. Ahmed, S.K.Barik, and S.K. Barik, A comparative study on structure and electrical properties of antimony ferrite and bismuth ferrite, Applied Physics A 124 (2018) 523 (Springer).",
+            "S. Nath, S.K. Barik, S. Hajra, and R.N.P. Choudhary, Studies of Structural, Impedance spectroscopy and Magnetoelectric Properties of (SmLi)1/2)(Fe2/3Mo1/3)O3 Electroceramics, Journal of Materials Science: Materials in Electronics, 29 (2018) 12251–12257 (Springer).",
+            "S. Nath, S.K. Barik, R.N.P. Choudhary, and Sujit K. Barik, Structural, dielectric and impedance characteristics of (Sm0.5Li0.5)(Fe0.5V0.5)O3 multiferroics, Physics Letters A, 381 (2017) 2174–2180 (Elsevier).",
+            "S. Ahmed and S. K. Barik, Studies of thermal, impedance and magnetic properties of (Bi1/2Na1/2)(Fe2/3W1/3)O3 multiferroics, Journal of Electronic Materials, 46 (2) (2017) 1030-1040.",
+            "S. Ahmed and S.K. Barik, Preparation of novel (Sb1/2Na1/2)(Fe2/3W1/3)O3 compound by solid state reaction technique and their multiferroic property, Journal of Materials Science: Materials in Electronics, 27 (2016) 10294–10302.",
+            "S. Nath, S.K. Barik, and R.N.P. Choudhary, Electrical and ferroelectric characteristics of (LaLi)1/2(Fe2/3Mo1/3)O3; Journal of Materials Science: Materials in Electronics 27 (2016) 8717–8724 (Springer).",
+            "S. Ahmed and S.K. Barik, Enhanced electric and magnetic properties of (BiLi)1/2(Fe2/3W1/3)O3 multiferroic as compared to BiFeO3; Ceramics International 42 (2016) 5659–5667 (Elsevier).",
+            "S. Nath, S.K. Barik, and R.N.P. Choudhary, AC conductivity and relaxation Mechanism in (Nd1/2Li1/2)(Fe1/2V1/2)O3 ceramics, AIP Conference Proceedings 1728 (2016) 020400",
+            "S. Nath, S.K. Barik, and RNP Choudhary, Dielectric relaxation and magnetic characteristics of (La1/2Li1/2)(Fe1/2V1/2)O3 multiferroics, Journal of Materials Science: Materials In Electronics 26 (2015) 8199-8206 (Springer).",
+            "S. Ahmed and S.K. Barik, Electrical and Magnetic Properties of (SbLi)1/2(Fe2/3Mo1/3)O3 Multiferroic Material, Journal of Alloys and Compounds 626 (2015) 292-296 (Elsevier).",
+            "S. Chatterjee, S. K. Barik, and R.N.P. Choudhary, Molecular and impedance spectroscopy of Na2Mo2O7 ceramics, Pramana: Journal of Physics 83 (4) (2014) 571-577 (Springer).",
+            "S. Chatterjee, S.K. Barik, and R.N.P. Choudhary, Studies of structural, spectroscopic and electrical properties of sodium molybdate ceramics, Journal of Materials Science: Materials in Electronics, 24 (2013) 3359-3364 (Springer)",
+            "S. K. Bera, S.K. Barik, R.N.P. Choudhary, and P.K. Bajpai, Electrical and magnetic properties of (BiNa)1/2(FeV)1/2O3, Bulletin of Material Science 35 (2012) 47-51 (Springer)",
+            "S.K. Barik and S.K. Bera, Electrical and magnetic properties of (BiLi)1/2(FeV)1/2O3, Applied Mechanics and Materials 110 (2012) 5437-5441 (Trans Tech Publications Inc.)",
+            "S.K. Barik, R.N.P. Choudhary, and A.K. Singh, Ac impedance spectroscopy and conductivity studies of Ba0.8Sr0.2TiO3 ceramics, Advanced Materials Letters 2 (2011) 419-424 (VBRI press)",
+            "S.K. Barik and S.K. Bera, Electrical and magnetic properties of (BiLi)1/2(FeV)1/2O3, Proceedings of the International Conference on Physics Science and Technology (ICPST), 2010, Hong Kong, China.",
+            "A.K. Singh, S.K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Ac conductivity and relaxation mechanism in Ba0.9Sr0.1TiO3, Journal of Alloys and Compounds 479 (2009) 39-42 (Elsevier)",
+            "R.N.P. Choudhary, S.K. Barik, and R.S. Katiyar, Impedance spectroscopic studies of BiFeO3-Pb(ZrTi)O3 nanocomposites, Modern Physics Letters B 23 (2009) 2655-2664 (World Scientific, Singapore)",
+            "S.K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Studies on structural and dielectric properties of Na1/2Dy1/2TiO3 ceramic, Current Applied Physics 9 (2009) 380-383 (Elsevier)",
+            "S.K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Structural and dielectric studies of lead-free ceramics: Na1/2Y1/2TiO3, Central European Journal of Physics 6 (2008) 849-852 (Springer)",
+            "S.K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Structural and electrical properties of Na1/2Gd1/2TiO3 nanoceramics, Journal of Alloys & Compound 459 (2008) 35-40 (Elsevier).",
+            "S.K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Electrical properties of Na1/2Nd1/2TiO3 ceramic, Journal of Material Science: Material in electronics 19 (2008) 607-614 (Springer)",
+            "S.K. Barik, R.N.P. Choudhary, and P. K. Mahapatra, Impedance spectroscopy study of Na1/2Sm1/2TiO3 ceramic, Applied Physics A 88 (2007) 217-222 (Springer)",
+            "S.K. Barik, P.K. Mahapatra, and R.N.P. Choudhary, Structural and electrical properties of Na1/2La1/2TiO3 ceramics, Applied Physics A 85 (2006) 199-203 (Springer)."
+          ],
+          "nationalJournals": [],
+          "internationalConf": [
+            "S. Nath, S.K. Barik, and R.N.P. Choudhary, AC conductivity and relaxation mechanism in (Nd1/2Li1/2)(Fe1/2V1/2)O3 ceramics; International Conference on Condensed Matter and Applied Physics, October 30-31, 2015 at Bikaner, Rajastan,",
+            "S.K. Barik and S.K. Bera, Electrical and magnetic properties of (BiLi)1/2(FeV)1/2O3, Proceedings of the International Conference on Physics Science & Technology, December 28-30, 2010, Hong Kong, China"
+          ],
+          "nationalConf": [
+            "S. K. Barik, R.N.P. Choudhary, and P.K. Mahapatra, Structure and transport properties of Na1/2Nd1/2TiO3 ceramics; “Dielectrics & Ferroelectrics: a modern perspectives”, published by Anamaya Publications Pvt. Ltd., New Delhi, India (2008).",
+            "A K. Singh, S. K. Barik, and R.N.P. Choudhary, Impedance properties of Sr modified BaTiO3, Proceedings of the National Conference on Ferroelectrics and Dielectrics, November 6-8, 2008, Patiala, India.",
+            "K. Prasad, K. Kumari, K. P. Chandra, S. Sen, S. K. Barik, and R. N. P. Choudhary, Effect of ZnO addition on the electrical properties of (Bi0.5Na0.5)TiO3 ceramics, Proceedings of the National Conference on Recent Advances in Materials Science, February 15-17, 2008, Indian School of Mines University, Dhanbad, India"
+          ]
+        }
+      }
     },
     {
       "name": "Dr. Avijit Chowdhury",
       "desg": "Assistant Professor Grade I",
       "phone": "+91 8486413558",
       "email": "avijit@phy.nits.ac.in",
-      "img": "/img/faculties/Avijit Chowdhury_09-10-20-12-59-20.jpg"
+      "img": "/img/faculties/Avijit Chowdhury_09-10-20-12-59-20.jpg",
+      "details": {
+        "altEmail": "avijitcnits@gmail.com",
+        "dateOfJoining": "2013-09-19",
+        "profileURL": "",
+        "academicQualifications": {
+          "qualificationDetails": "Ph.D. (2013) at Indian Association for the Cultivation of Science (IACS), Jadavpur, Kolkata 700032; • M.Sc. (2008) in Physics (X-ray & Crystallography as Specialzation) at Jadavpur University, Jadavpur, Kol 32; • B.Sc. (2006) in Physics (Hons.) at Jadavpur University, Jadavpur, kolkata 700032.",
+          "currentlyTeachingSubject": "1. Physics (PH-1101) for B.Tech. (1st Year UG); 2. Physics of Semiconductors (PH-6041) (PG); 3. Condensed Matter Physics-II (PH-6033) (PG); 4. B.Tech. Laboratory (PH-1111); 5. Physics Laboratory I & III"
+        },
+        "experience": {
+          "experienceDuration": "7 Years",
+          "experienceDesc": "Teaching Experiences: Assistant Professor in the Department of Physics at National Institute of Technology Silchar from September 19, 2013 to June 26, 2018; Assistant Professor Grade I since June 27, 2018 to till date.",
+          "specialization": "Experimental Condensed Matter Physics;",
+          "teachingInterest": "• Condensed Matter Physics I & II • Physics of Semiconductors • Atomic and Molecular Physics",
+          "researchInterest": "• Dark and Photoconductivity of Organometallic and Polymeric Materials • Polymer Nanocomposites • Semiconductor Heterostructures and Devices • Thin Films and Nanostructured Materials • Semiconductor Nanocrystals and DSSCs • Resistive memory devices etc.",
+          "administrativeInterest": "• Center In-charge for PG admission CCMN 2016 • Center Dy. In-charge for PG admission CCMN-2017 • Faculty Advisor Gymkhana, NIT Silchar (Gymnasium and Athletics) • Faculty Coordinator Gyansagar (2019 to till date)",
+          "biographicalSketch": "• Ph.D. (2013): Indian Association for the Cultivation of Science (IACS), Jadavpur, Kolkata-700032 (Degree awarded by Jadavpur University); • M.Sc. (2008): Physics (X-ray & Crystallography as Specialization), Jadavpur University, Kolkata 700032; • B.Sc. (2006): Physics (Hons.) Jadavpur University, Kol 700032.",
+          "phdScholarsGuided": "1. Mr. Kaustav Kashyap Gogoi (Scholar No. 15-3-24-101)- Supervisor; Status- (Thesis Submitted) • 2. Ms. Anupriya Nayaban (Scholar No. - 16-3-24-103), Co-Supervisor, Status-Ongoing • 3. Nipom Sekhar Das (Scholar No. 18-3-24-104), Supervisor; Status- Ongoing • 4. Suma Das (Scholar No. 19-3-24-104) Supervisor; Status- Ongoing; 5. Virendra Bhagwat, (Co-supervisor)",
+          "pgScholarsGuided": "• 1. Ms. Sharmistha Bhatterjee (12-29-106), \"Neutron Irradiation Studies on Thorium Sample\" (2014) (Other supervisor: Prof. K.V.S. Rao) • 2. Debasish Das (13-49-105), \"Effect of post deposition annealing temperatures on the optical and electrical properties of Zinc Phthaloycnine (ZnPc) thin films\", (2015) • 3. Ruksana Begum Choudhury (14-49-112), \"Structural, optical and electrical properties of copper phthalocyanine thin films\", (2016) • 4. Rajdeep Das (14-49-111), \"Hysteresis in current-voltage characteristics of CdS nanorods embedded in polymer matrix\", (2016) • 5. Meenakshi Malakar (14-49-109), \"Synthesis and characterization of ZnO nanoparticles and its use in resistive switching devices\", (2016) (Other supervisor: Dr. Saumya R. Mohapatra) • 6. Anindita Deb (15-49-102), \"Synthesis and characterization of high quality and exfoliated graphene oxide\", (2017) • 7. Suma Da (15-49-111), \"Fabrication of low cost dye sensitized solar cell using natural plant pigment as sensitizers and Graphene oxide/ITO as counter electrode\", (2017) • 8. Alokesh Baishya (15-49-110),\"Theoretical study of structural and electronic properties of Indium Phosphide\", (2017) • 9. Satish Kumar (16-49-105), \"Design, Simulation and Electrical Studies of Metal–Oxide–Semiconductor Field-Effect Transistor (MOSFET)\", (2018) 10. Rakesh Chandra Das (17-49-104), \"Synthesis of Highly Luminescent Graphene Oxide Quantum Dots and its Application in Resistive Switching Memory Devices\". (2019) 11. Sowmya Bhowmick (18-49-101), \"Organic resistive memory device using SnS doped reduced graphene oxide nanohybrid derived from disposed dry cells\". (2020).",
+          "achievements": "• Qualified in Graduate Aptitude Test for Engineering (GATE), (2008 & 2009) Qualified in National Eligibility Test (NET) for Lectureship, (2009) Reviewer of International Journals: ACS Applied Materials and Interfaces (ACS Publishing); The Journal of Physical Chemistry C (ACS Publishing); Nanotechnology (IOP Publishing); Materials Research Express (IOP Publishing); Current Applied Physics (Elsevier) ; Current Analytical Chemistry (Bentham Science);",
+          "projects": "• 1. \"Fabrication and testing of tandem layered quantum dot sensitized solar cell with elevated absorption\", Duration: 3 Years (2016-2019), Funding Agency: DST-SERB, Amount: 25.13 Lakh, Role: Dr. Ranjith G. Nair (PI), Dr. Avijit Chowdhury (Co-PI). • 2. \"Nanostructured Metal Oxides Immobilized Ionic Liquids as Green Catalysts for Selective Organic Transformation\", Duration: 3 Years (2018-2021), Funding Agency: DST-SERB, Amount: 29.83 Lakh, Role: Dr. S.S. Dhar (PI), Dr. Avijit Chowdhury (Co-PI).",
+          "booksPublished": "1. Book Chapter: Studies on the Optical and Structural Properties of Exfoliated Graphene Oxide, Nipom Sekhar Das, Koustav Kashyap Gogoi, Avijit Chowdhury; Book: Modeling, Simulation and Optimization, Smart Innovation, Systems and Technologies 206, pp 465-471, (ISBN 978-981-15-9829-6), Page 465 - 471, Springer, 2021.(https://doi.org/10.1007/978-981-15-9829-6_36) 2. Book Chapter: Spectroscopic and Structural Investigation of Graphene Oxide Synthesized via Hummers’ Method, Nipom Sekhar Das, Koustav Kashyap Gogoi , Suma Das, Avijit Chowdhury Lect. Notes Mechanical Engineering, Kanishka Jha et al. (Eds): Recent Advances in Sustainable Technologies, 978-981-16-0975-6, 501566_1_En, (Chapter 19)"
+        },
+        "publications": {
+          "internationalJournals": [
+            "Virendra Vishnu Bhagwat, Sujit Roy, Biplab Das, Nikhilkumar Shah, Avijit Chowdhury, Performance of finned heat pipe assisted parabolic trough solar collector system under the climatic condition of North East India, Sustainable Energy Technologies and Assessments 45 (2021) 101171.",
+            "Koustav Kashyap Gogoi, Suma Das, Soumen Maiti, and Avijit Chowdhury*, \"Semiconductor Grafted Polymer-Embedded Reduced Graphene Oxide Nanohybrid for Power-Efficient Non-volatile Resistive Memory Applications\" ACS Applied Nanomaterials 11 (2020) 11562–11573 (ACS Publishing)",
+            "A Nyayban, S Panda*, A Chowdhury, BI Sharma, First principle studies of rubidium lead halides towards photovoltaic application, Materials Today Communications 24 (2020) 101190.",
+            "Koustav Kashyap Gogoi and Avijit Chowdhury*, Performance Improvement of Organic Resistive Memories by Exploiting Synergistic Layered Nano-hybrid Dispersed Polymer Composites , Journal of Applied physics 127 (2020) 065501 (DOI: 10.1063/1.5131862)2020. (AIP Publishing) (Selected for Editor's Pick)",
+            "Koustav Kashyap Gogoi and Avijit Chowdhury*, \"Performance Enhancement of Solution Processed Organic Memories by Exploiting Synergistic Organic-Inorganic Hybrid Composites\", The Journal of Physical Chemistry C 124 (2020) 1108-1120. (13 pages) (doi.org/10.1021/acs.jpcc.9b09126) (ACS Publishing)",
+            "Rakesh Chandra Das, Koustav Kashyap Gogoi, Nipom Sekhar Das, and Avijit Chowdhury*, \"Optimization of Quantum Yield of Highly Luminescent Graphene Oxide Quantum Dots and Their Application in Resistive Memory Devices\", Semiconductor Science and Technology 34 (2019) 125016 (14 pages) (Doi.org/10.1088/1361-6641/ab5175). (IOP Science Publishing)",
+            "Koustav Kashyap Gogoi, Rajdeep Das, Tanmoy Paul, Sharmistha Ghosh, Avijit Chowdhury*, \"Tuning of Bipolar Resistive Switching and Memory Characteristics of Cadmium Sulphide Nanorods Embedded in PMMA Matrix\", Materials Research Express 6 (2019) 115107. (doi.org/10.1088/2053-1591/ab4a6f). (IOP Science Publishing)",
+            "Koustav Kashyap Gogoi and Avijit Chowdhury*,\"Electric Field Induced Tunable Memristive Characteristics of Exfoliated Graphene Oxide Embedded Polymer Nanocomposites\", Journal of Applied Physics, Vol. 126, Issue 2, (2019) PP. 025501-11.(doi: 10.1063/1.5102145) (AIP Publishing)",
+            "Koustav Kashyap Gogoi, Nipom Sekhar Das, Avijit Chowdhury*, Tuning of electrical hysteresis in PMMA/GOs/PMMA multi-stacked devices, Materials Research Express 6 (2019) 085108 (doi.org/10.1088/2053-1591/ab26d3)",
+            "N. Roy, Avijit Chowdhury, T. Paul, A. Roy, Morphological, Optical, and Raman characteristics of ZnO nanoflowers on ZnOseeded Si Substrates Synthesized by Chemical Method, Journal of Nanoscience and Nanotechnology 16 (9738-9745(8)) 2016.",
+            "B. Biswas,Avijit Chowdhury, B. Mallik, Spectacular Oscillations in dark and photocurrent in thiol-capped CdS quantum dots embedded in PMMA matrix, RSC Advances 5 (2015) 13613.",
+            "M. K. Sanyal, B. Biswas, Avijit Chowdhury, B. Mallik, Spectroscopic studies on the effect of some Ferrocene derivatives in the formation of Silver nanoparticles, Journal of Nanoscience and Nanotechnology 16 (6068-6077) 2016.",
+            "N. Roy, Avijit Chowdhury, A. Roy, Observation of negative differential resistance and electrical bistability in chemically synthesized ZnO nanorods, J. Appl. Phys. 115 (2014) 223502.",
+            "S. Maiti, U. N. Maiti, Avijit Chowdhury, K.K. Chattopadhyay, Ambient condition oxidation of zinc foil in supersaturated solution for shape tailored ZnO nano-structures: low cost candidates for efficient elec-tron emitter and UV-detector, CrystEnggComm, 16 (2014) 1659.",
+            "Avijit Chowdhury, B. Biswas, M.K. Sanyal , B. Mallik, Organic Rectifiers Grown from Metal Phthalocyanine Seeds: Effects of Grain Growth and Grain Orientation on the Rectification, Sci. Adv. Mater. 5 (2013) 1857-1866.",
+            "Avijit Chowdhury, B. Biswas, B. Mallik, Effects of Substrate on the Asymmetric Grain Growth and Observation of Conductivity Anisotropy in Nano-structured Organic Thin Films, Sci. Adv. Mater. 5 (2013) 1297-1306.",
+            "Avijit Chowdhury, B. Biswas, B. Mallik, Negative Differential Resistance and Photovoltaic Phenomena Observed in Nanostructured Organic Hetero-junctions, Journal of Nanoscience and Nanotechnology 13 (2013 )4134-4140.",
+            "B. Biswas, Avijit Chowdhury, M. K. Sanyal, M. Majumder, B. Mallik, Electric Field Induced Tunable Bistable Conductance Switching and Memory Effect of Thiol Capped CdS Quantum Dots Embedded in Poly(methyl methacrylate) PMMA Thin Films, Journal of Materials Chemistry C 1 (2013) 1211-1222.",
+            "Avijit Chowdhury, B. Biswas, R. N. Bera, B. Mallik, Observation of Electrical Switching, Reverse Rectification and Hysteresis in Nanostructured Organic-Organic Heterojunction, Journal of Nanoscience and Nanotechnology 13 (2013) 315-324.",
+            "B. Biswas, Avijit Chowdhury, B. Mallik, Tuning of Electrical Conductivity and Hysteresis Effect in poly-(methyl methacrylate) Carbon Nanotube Composite Films, RSC Advances 3 (2013) 3325-3332.",
+            "B. Biswas, Avijit Chowdhury, B. Mallik, Role of solvents on the electrical conductivity of solution processed poly(methyl metha-crylate) thin films, Synthetic Metals 178 (2013) 44-51.",
+            "Avijit Chowdhury, B. Biswas, R.N. Bera, B. Mallik, Nanostructured organic-inorganic heterojunction diodes as gas sensors, RSC Advances 2 (2012) 10968-10976.",
+            "Avijit Chowdhury, B. Biswas, M. Majumder, M. K. Sanyal, B. Mallik, Studies on phase transformation and Molecular Orientation in Nanostructured Zinc Phthalocyanine Thin Films Annealed at Different Temperatures, Thin Solid Films 520 (2012) 6695-6704.",
+            "B. Biswas, A.K. Chakraborty, M. Majumder, Avijit Chowdhury, M. K. Sanyal, B. Mallik, Surface electrical conductivity of poly(methyl methacrylate) thin films: Observation of conductivity switching, Synthetic Metals 161 (2012) 2632–2637.",
+            "M. Majumder, A. K. Chakraborty, B. Biswas, Avijit Chowdhury, B. Mallik, Indication of formation of charge density waves in silver nanoparticles dispersed Poly (methylmethacrylate) thin film, Synthetic Metals161 (2011)1390-1399."
+          ],
+          "nationalJournals": [
+            "M. K. Sanyal, B. Biswas, A. Chowdhury, B. Mallik, Effect of ferrocene in the formation of silver nano-particles prepared by microwave assisted method and monitored by UV-vis spectroscopic studies, J. Spectrosc. Dyn. 4: 3 (2014).",
+            "M. K.Sanyal, B. Biswas, M. Majumder, A. K. Chakraborty, A. Chowdhury, B. Mallik, Studies on the photoswitching property of vinylferrocene doped poly(methyl metha-crylate) thin films, Phys. Express 4: 19 (2014)."
+          ],
+          "internationalConf": [
+            "K K Gogoi and A Chowdhury, Organic-inorganic nanohybrids for low-powered resistive memory applications, Journal of Physics: Conference Series 1706 (2020) 012010.",
+            "Nipom Sekhar Das, Koustav Kashyap Gogoi, Rakesh Chandra Das, and Avijit Chowdhury*,\"Studies on electrical characteristics of organic-inorganic heterostructures\", AIP Conference Proceedings 2162, 020008 (2019).",
+            "Koustav Kashyap Gogoi and Avijit Chowdhury, Highly stable write-once-read-many times switching behavior of graphene oxide-polymer nanocomposites, AIP Conference Proceedings, 2142, 150028 (2019). (doi.org/10.1063/1.5122577))",
+            "Koustav Kashyap Gogoi, and Avijit Chowdhury*, Electric field induced tunable electrical hysteresis in poly(methyl methacrylate)/graphene oxide heterostructures, AIP Conference Proceedings 2100, 020022 (2019).",
+            "Suma Das, Koustav Kashyap Gogoi, Avijit Chowdhury, \"Fabrication of dye sensitized solar cell using natural plant pigment as sensitizers\", AIP Conference Procedings, 1998, 020016 (2018); https://doi.org/10.1063/1.5049112",
+            "Kaustav K Gogoi, R Das and A Chowdhury, \"Memory effect and electrical hysteresis in CdS nanorods embedded polymer thin films\", IOP Conference Series: Materials Science and Engineering 377 (2018) 012100. doi:10.1088/1757-899X/377/1/012100",
+            "Manjula G. Nair, Meenakshi Malakar, Saumya R. Mohapatra, and Avijit Chowdhury, \"Synthesis of ZnO nanorods and observation of resistive switching memory in ZnO based polymer nanocomposites, AIP Conference Proceedings 1953, 030171 (2018); doi.org/10.1063/1.5032506",
+            "M. K. Sanyal, B. Biswas, Avijit Chowdhury and B. Mallik,Uv-vis Spectroscopic Studies of Silver Nanoparticles Prepared by Microwave Assisted Method in the Presence of Ferrocene: Control of Growth of Silver Nanoparticles by Ferrocene, 1st International Workshop on Nanomaterials (IWoN): Engineering Photon and Phonon Transport” held at Jadavpur University, Kolkata 700032 during December 14-15, 2012.",
+            "B. Biswas, Avijit Chowdhury and B. Mallik,Electrical Conductivity of Carbon Nanotubes Embedded Poly-(methyl methacrylate) Thin Films, 1st International Workshop on Nanomaterials (IWoN): Engineering Photon and Phonon Transport” held at Jadavpur University, Kolkata 700032 during December 14-15, 2012.",
+            "Avijit Chowdhury, B. Biswas, M. K. Sanyal, M. Majumder and B. Mallik, Persistence in Photoconductivity of Nanostructured Copper Phthalocyanine Thin Films under Polychromatic Light Excitation, International Conference on Fundamental and Applications of Nanoscience and Technology (ICFANT)” held at Jadavpur University, Kolkata-700032 during December 9-11, 2010."
+          ],
+          "nationalConf": [
+            "B. Biswas, A. K. Chakraborty, M. Majumder, Avijit Chowdhury and B. Mallik, Observation of Conductivity Switching in Surface Electrical Conductivity of Poly(methyl methacrylate) Thin Films, National Conference on Sustainable Development through Innovative Research in Science and Technology” held at Jadavpur University, Kolkata 700032 during September 28-29, 2012.",
+            "B. Biswas, A. K. Chakraborty, M. Majumder, Avijit Chowdhury and B. Mallik, Observation of Conductivity Switching in Surface Electrical Conductivity of Poly(methyl methacrylate) Thin Films, National Conference on Sustainable Development through Innovative Research in Science and Technology” held at Jadavpur University, Kolkata 700032 during September 28-29, 2012."
+          ]
+        }
+      }
     },
     {
       "name": "Dr. Ranjith G. Nair",
       "desg": "Assistant Professor",
       "phone": "+91 9401519326",
       "email": "rgnair@phy.nits.ac.in",
-      "img": "/img/faculties/Renjith _0310_27-08-16-20-56-42.jpg"
+      "img": "/img/faculties/Renjith _0310_27-08-16-20-56-42.jpg",
+      "details": {
+        "altEmail": "rgnair2007@gmail.com",
+        "dateOfJoining": "2012-07-19",
+        "profileURL": "www.smartlabnits.co.in",
+        "academicQualifications": {
+          "qualificationDetails": "Ph.D at Tezpur University in association with Montpellier University-2, France (2013); M.Phil at Bharathiar University (2008); M.Sc at Bharathiar University (2005); B.Sc at Calicut University (2003); B.Ed at Mysore University (2006).",
+          "currentlyTeachingSubject": "B.Tech Physics, Electrodynamics-1"
+        },
+        "experience": {
+          "experienceDuration": "5 Years",
+          "experienceDesc": "Assistant professor From: 19th July 2012 to Till Date",
+          "specialization": "Condensed Matter Physics: Solar Energy.",
+          "teachingInterest": "Condensed Matter Physics, Solar Energy, Electronics, Electrodynamics",
+          "researchInterest": "Solar Photocatalysis, Solar Photovoltaics, Ion Beam Irradiation and Energy materials",
+          "administrativeInterest": "Associate Warden, Hostel-8, NIT Silchar since 4th January, 2016; Nodal Officer, 800kW Solar Roof Top Installation at NIT Silchar in association with Ministry of Human Resource Development and Ministry of New and Renewable Energy; Coordinator, Gyansagar, NIT Silchar Since 9th September, 2015; Coordinator, Renewable Energy, Unnath Bharath Abiyan (UBA); Convener, SESI student’s chapter at NIT Silchar since 29th August, 2013.",
+          "biographicalSketch": "Dr. Ranjith G. Nair is an Assistant Professor in Physics at National Institute of Technology Silchar. He teaches in M.Sc Applied Physics program and Engineering Physics for B.Tech Students. His thrust areas of research are Solar Photocatalysis, Solar Photovoltaics, Ion Beam Irradiation and Energy materials. Two research scholars and two M.Sc students are working under him and he has 01 sponsored project in association with Inter University Acceleration Centre, New Delhi and 01 solar roof top installation project sponsored by Ministry of New and Renewable Energy. A Solar E-Rickshaw with hybrid power generation has been developed by him along with few B.Tech students and the technology has been submitted for patent. He has completed his Ph.D from Tezpur University in collaboration with Montpellier University-2, France. During his entire research tenure he has published 14 international journal publications with an average impact factor 3. Moreover he conducted a one week Short-term training program on Renewables in Science and Engineering. He has also participated and presented his research in many workshops, seminars, STTPs etc. in India and abroad. He is also the recipients of many awards/fellowships like ITS-SERB, Indo-French Sandwich Fellowship, CSIR-SRF, MNRE-NREF-SRF, Best Poster Award of ISCA etc.",
+          "phdScholarsGuided": "Mr. Abinash Das (Ongoing), Mr. Mathan Kumar (Ongoing), Mr. Marimuthu (Ongoing).",
+          "pgScholarsGuided": "Mr. Abinash Das, Ms. Ruby Barman, Mr. Jintu Pathak, Mr. Kan Dekha, Mr. Pradip Kumar Gupta, Ms. PanchaliMalakar",
+          "achievements": "Reviewer, DST-SERB Sponsored Projects (2015); DST sponsored International Travel Support (ITS) for Young Scientists (2015) ; Sandwich PhD Fellowship sponsored by French Embassy in India (2011); Senior Research Fellow (SRF) of Council for Scientific and Industrial Research (2012) ; Senior Research Fellow (SRF) of National Renewable Energy Fellowship (2011); Senior Research Fellow (SRF) of the DST Research Project (2009 to 2011); Best Poster Award in 97th Indian Science Congress held at Trivandrum (2010); First Prize in National level Paper Presentation (2007).",
+          "projects": "Fabrication and Testing of Tandem Layered Quantum Dot Sensitized Solar Cell with Elevated Absorption, Dr. Ranjith G. Nair (Principal Investigator), Dr. Avijit Chowdhury (Co- Principal Investigator), Sponsored by: DST-SERB, 3 years (From 2016 to 2019), Amount: Rs.2513390.00; Energetic Ion beam assisted synthesis of Ag/Au ion implanted Titania/ZnO thin film and investigation of their Utility as Photoanode for Dye Sensitized Solar Cell, Dr. Ranjith G. Nair (Principal Investigator), Sponsored by: UGC-IUAC, 3 years (From 2015 to 2018), Amount: Rs.675000.00; Installation of aggregate/cumulative 0.80MWp Grid Connected Solar Rooftop Projects in National Institute of Technology Silchar, Assam-788010, Dr. Ranjith G. Nair (Nodal Officer), Sponsored by: MNRE, Amount: Rs.64000000.00",
+          "booksPublished": ""
+        },
+        "publications": {
+          "internationalJournals": [
+            "Samrat Paul, BijumaniRajbongshi, Birinchi Bora, Ranjith G Nair and S K Samdarshi, Organic photovoltaic cells using green-MWCNTs, New Carbon Materials, (2017), Accepted (Impact Factor: NA).",
+            "Ranjith G. Nair, Abinash Das, Samrat Paul, BijumaniRajbongshi, S. K. Samdarshi, MWCNT decorated V-doped titania: An efficient visible active photocatalyst, Journal of Alloys and Compounds, 695 (2017) 3511-3516 (Impact Factor: 3.014).",
+            "Ranjith G. Nair, Paranjyothi Baradwaj, Sanjoy Kumar Samdarshi, Design improvement and performance evaluation of solar photocatalytic reactor for industrial effluent treatment, Ecotoxicology and environmental safety, Elsevier (2015), ISSN: 0147-6513, (Impact Factor: 3.30).",
+            "Ranjith G. Nair, Sanjoy Kumar Samdarshi, Bruno Boury, The surface mineralization of cellulose by metal chloride. An original pathway for the synthesis of hierarchical superstructures of TiO2 -like urchins and carpets of needles, European Journal of Inorganic Chemistry, Wiley (2013) 5303–5310, ISSN: 1099-0682, (Impact Factor: 3.12).",
+            "Barnali Das, Ranjith G Nair, R. Bijumani, S. K. Samdarshi, Investigation of the photoactivity of pristine and mixed phase N-doped Titania under visible and solar irradiation, Material Characterization, Elsevier, 83 (2013) 145-151 ISSN: 1044-5803 (Impact Factor: 1.88).",
+            "Bruno Boury, Ranjith. G. Nair, Sanjoy K Samdarshi, Tahereh Makiabadi and P. Hubert Mutin, Non-hydrolytic synthesis of hierarchical TiO2 nanostructures using natural cellulosic materials as both oxygen donors and templates, New Journal of Chemistry, RSC, 36 (2012) 2196-2200, ISSN: 1144-0546 (Impact Factor: 2.966).",
+            "Ranjith. G. Nair, Jetendra Kumar Roy, S. K. Samdarshi, A. K. Mukherjee, Mixed phase V doped titania shows high photoactivity for disinfection of Escherichia coli and detoxification of phenol, Solar Energy Materials and Solar cells, Elsevier, 105 (2012)103-108ISSN: 0927-0248 (Impact Factor: 5.205).",
+            "Ranjith. G. Nair, A. M. Tripathi, S. K. Samdarshi, Impact of Ti-V ratio on the crystalline phase/visible light activity of TiV-oxide photocatalyst, Environmental Progress and Sustainable Energy, Wiley, 31(1) (2012) 107-113 ISSN: 1944-7450 (Impact Factor: 0.865).",
+            "Ranjith. G. Nair, A. M. Tripathi and S. K. Samdarshi, Photocatalytic activity of predominantly rutile mixed phase Ag/TiV oxide nanoparticles under visible light irradiation, Energy, Elsevier, 36 (2011) 3342-3347, ISSN: 0360-5442 (Impact Factor: 4.107).",
+            "Ranjith. G. Nair, Jetendra Kumar Roy, S. K. Samdarshi, A. K. Mukherjee, Enhanced visible light photocatalytic disinfection of gram negative, pathogenic Escherichia coli bacteria with Ag/TiV oxide nanoparticles, Colloids and surfaces B: Biointerfaces, Elsevier, 86 (2011) 7-13, ISSN: 0927-7765 (Impact Factor: 3.417).",
+            "Ranjith. G. Nair, Samrat Paul, S. K. Samdarshi, High UV/Visible light activity of mixed phase titania: A generic mechanism, Solar Energy Materials and Solar cells, Elsevier, 95 (2011) 1901-1907, ISSN: 0927-0248 (Impact Factor: 5.205)",
+            "R. Sathyamoorthy, P. Sudhaghar, R. Saravanakumar, P. Matheswaran and Ranjith. G. Nair, Facile synthesis of thiol stabilized CdSexTe1-x Nanocrystals, Physica B: Condensed Matter, Elsevier, 406 (4) (2011) 715-719, ISSN: 0921-4526 (Impact Factor: 1.135).",
+            "A. M. Tripathi, Ranjith. G. Nair, S. K. Samdarshi, Visible active Silver sensitized Vanadium Titanium mixed metal oxide photocatalyst nanoparticles through sol gel technique, Solar Energy Materials and Solar cells, Elsevier, 94(12) (2010) 2379-2385 ISSN: 0927-0248 (Impact Factor: 5.205)",
+            "M. Nirmala, Manjula G. Nair, K. Rekha, A. Anukaliani, S.K. Samdarshi and Ranjith G. Nair, Photocatalytic Activity of ZnO Nanopowders Synthesized by DC Thermal Plasma, African Journal of Basic & Applied Sciences, IDOSI, 2 (5-6) (2010) 161-166, ISSN: 2079-2034, (Impact Factor: NA)."
+          ],
+          "nationalJournals": [
+            "Swapna Ojah, Ranith G. Nair, S. K. Samdarshi, Recent Developments in Dye-Sensitized Solar Cells, Akshay Urja, 7(1) (2013) 10-13"
+          ],
+          "internationalConf": [
+            "P. K. Kushwaha, Abhijit Gope and Ranjith G. Nair, Solar e-Rickshaw: A Green Local Transport Solution, 2014, International Congress on Renewable Energy(ICORE) held at Manekshaw Center, New Delhi.",
+            "Swapna Ojah, Ranjith. G. Nair and S. K. Samdarshi, Synthesis of copper sensitized nanoparticle for solar cell application, 2011, International Congress on Renewable Energy(ICORE) held at Tezpur University",
+            "Ranjith. G. Nair and S. K. Samdarshi, Visible light induced Photocatalytic disinfection of E.coli using Vanadium doped Titanium dioxide, 2010, International Congress on Renewable Energy(ICORE) held at Chandigarh",
+            "Swapna Ojah, Ranjith G. Nair and S. K. Samdarshi, A review on recent development in Dye Sensitized Solar Cells, 2010, International Congress on Renewable Energy(ICORE) held at Chandigarh",
+            "Paranjyoti Bharadwaj, R. G. Nair and S. K. Samdarshi, Designing Geometry of a Compound Parabolic Solar Reactor with Cylindrical Absorber used for Photocatalytic Detoxification, 2010, International Congress on Renewable Energy(ICORE) held at Chandigarh",
+            "S. K. Samdarshi, Ranjith. G. Nair and A. M. Tripathi, Development of Visible Active Ag deposited TiV oxide Photocatalytic Nanoparticle system, 2009, International Congress on Renewable Energy(ICORE) held at New Delhi"
+          ],
+          "nationalConf": []
+        }
+      }
     },
     {
       "name": "Dr. Rupak Dutta",
       "desg": "Assistant Professor",
       "phone": "+91 8812848747",
       "email": "rupak@phy.nits.ac.in",
-      "img": "/img/faculties/rupak_dutta_13-08-15-13-23-09.jpg"
+      "img": "/img/faculties/rupak_dutta_13-08-15-13-23-09.jpg",
+      "details": {
+        "altEmail": "rupakdutta[at]gmail[dot]com",
+        "dateOfJoining": "2014-11-03",
+        "profileURL": "http://inspirehep.net/author/profile/R.Dutta.1",
+        "academicQualifications": {
+          "qualificationDetails": "Ph. D. at University of Kentucky, USA (2009), MS at University of Kentucky, USA (2005), M.Tech at Pune University (2002), M.Sc at Delhi University (1998)",
+          "currentlyTeachingSubject": "Nuclear and Particle physics, B.Tech. theory"
+        },
+        "experience": {
+          "experienceDuration": "",
+          "experienceDesc": "Postdoctoral Experience: 1) Indian Institute of Technology Hyderabad (2012 - 2013). 2) Institute of Mathematical Sciences, Chennai (2009 - 2012)",
+          "specialization": "Theoretical High Energy Physics: B physics and CP violation, Neutrino oscillation phenomenology",
+          "teachingInterest": "",
+          "researchInterest": "",
+          "administrativeInterest": "",
+          "biographicalSketch": "",
+          "phdScholarsGuided": "Rajeev N. (Ongoing), Nilakshi Das (Ongoing), Iffat Ara Mazumder (Ongoing)",
+          "pgScholarsGuided": "",
+          "achievements": "",
+          "projects": "",
+          "booksPublished": ""
+        },
+        "publications": {
+          "internationalJournals": [
+            "Angular analysis of B s → f ′ 2 ( 1525 ) ( → K + K − ) μ + μ − decays as a probe to lepton flavor universality violation, N. Rajeev, Niladribihari Sahoo, and Rupak Dutta, Phys. Rev. D 103, 095007, 2021",
+            "Implication of b→cτν flavor anomalies on Bs→Ds∗τν decay observables, Nilakshi Das and Rupak Dutta, J.Phys.G 47 (2020) 11, 115001",
+            "Model independent analysis of New Physics effects on 𝐵𝑐→(𝐷𝑠,𝐷∗𝑠)𝜇+𝜇− decay observables, Rupak Dutta, Phys. Rev. D 100, 075025, 2019",
+            "Implication of 𝑅𝐷(∗) anomalies on semileptonic decays of Σ𝑏 and Ω𝑏 baryons , N. Rajeev, Rupak Dutta, and Suman Kumbhakar, Phys. Rev. D 100, 035015, 2019",
+            "Predictions of 𝐵𝑐→(𝐷,𝐷∗)𝑙𝜈 decay observables in the standard model and beyond, Rupak Dutta, J. Phys. G: Nucl. Part. Phys. 46, 2019, 035008",
+            "Impact of vector new physics couplings on Bs→(K,K∗)τν and B→πτν decays, N. Rajeev and Rupak Dutta, Phys. Rev. D 98, 055024 (2018)",
+            "Signature of Lepton flavor universality violation in Bs→Dsτν semileptonic decays, Rupak Dutta and N. Rajeev, Phys.Rev.D 97, 095045 (2018)",
+            "Phenomenology of Ξb→Ξcτν decays, Rupak Dutta, Phys. Rev. D 97, 073004, 2018",
+            "Exploring RD , RD∗ and RJ/Ψ anomalies, Rupak Dutta, arXiv:1710.00351",
+            "Bc→(J/Ψ,ηc)τν semileptonic decays within Standard model and beyond, Rupak Dutta and Anupama Bhol, Phys. Rev. D 96 (2017), 076001",
+            "b→(c,,u),τν leptonic and semileptonic decays within an effective field theory approach, Rupak Dutta and Anupama Bhol, Phys.Rev. D96 (2017) no.3, 036012",
+            "Λb → (Λc , p) τ ν decays within standard model and beyond, Rupak Dutta, Phys. Rev. D93, 054003, 2016",
+            "Perturbative bottom-up approach for neutrino mass matrix in light of large θ13 and role of lightest neutrino mass, Rupak Dutta, Upender Ch, Anjan K. Giri, Narendra Sahu, Int.J.Mod.Phys. A29 (2014) 1450113",
+            "Baryonic b→sll¯ transition decays, Rupak Dutta, Anupama Bhol, Anjan K. Giri, J.Phys. G41 (2014) 065002",
+            "Determining neutrino mass hierarchy from electron disappearance at a Low energy neutrino factory, Rupak Dutta, Nita Sinha, Sushant K. Raut, Phys.Rev. D89 (2014) 7, 073011",
+            "Effective theory approach to new physics in b → u and b → c leptonic and semileptonic decays, Rupak Dutta, Anupama Bhol, Anjan K. Giri, Phys.Rev. D88 (2013) 11, 114023",
+            "Tau contamination in the platinum channel at neutrino factories, Rupak Dutta, D. Indumathi, Nita Sinha, Phys.Rev. D85 (2012) 013003",
+            "CP Asymmetries in B ---> f(0) K(S) Decays, Rupak Dutta, Susan Gardner, Phys.Rev. D78 (2008) 034021"
+          ],
+          "nationalJournals": [],
+          "internationalConf": [],
+          "nationalConf": []
+        }
+      }
     },
     {
       "name": "Dr. Saumya R. Mohapatra",
       "desg": "Assistant Professor",
       "phone": "+91 7896234525",
       "email": "saumya@phy.nits.ac.in",
-      "img": "/img/faculties/Saumya_Ranjan_Mohapatra_23-04-15-15-30-47.jpg"
+      "img": "/img/faculties/Saumya_Ranjan_Mohapatra_23-04-15-15-30-47.jpg",
+      "details": {
+        "altEmail": "saumya.mohapatra[at]gmail[dot]com",
+        "dateOfJoining": "2014-11-03",
+        "profileURL": "",
+        "academicQualifications": {
+          "qualificationDetails": "Ph.D. at Indian Institute of Technology (IIT) Kharagpur, (2009). M.Sc. (Physics) at Utkal University, Bhubaneswar (2003).",
+          "currentlyTeachingSubject": "1st Year Physics (UG), Condensed Matter Physics I (PG), B.Tech First Year Lab, M.Sc. Lab"
+        },
+        "experience": {
+          "experienceDuration": "",
+          "experienceDesc": "Postdoctoral Experience 1. National Institute of Materials Science (NIMS), Tsukuba, Japan (2010-2013). 2. Institute of Beam Science, Ibaraki University, Mito, Japan (2009-2010).",
+          "specialization": "Specialization: Experimental Condensed Matter Physics. Research Interest: Energy storage devices and materials, Nanoionics based resistive switching devices",
+          "teachingInterest": "Condensed Matter Physics, Physics of Semiconductors, Atomic and Molecular Physics, Experimental Techniques",
+          "researchInterest": "",
+          "administrativeInterest": "",
+          "biographicalSketch": "",
+          "phdScholarsGuided": "Ongoing - 02",
+          "pgScholarsGuided": "",
+          "achievements": "",
+          "projects": "",
+          "booksPublished": "Book Chapter: Solid-Polymer-Electrolyte-Based Atomic Switches, T. Tsuruoka, K. Krishnan, S. R. Mohapatra, S. Wu, M. Aono, Book: Atomic Switch (ISBN 978-3-030-34874-8), Page 139 - 159, Springer, 2020.(https://doi.org/10.1007/978-3-030-34875-5_8"
+        },
+        "publications": {
+          "internationalJournals": [
+            "Role of protic ionic liquid concentration in proton conducting polymer electrolytes for improved electrical and thermal properties, M. G. Nair, S. R. Mohapatra, M. R. Garda, B. Patanair, A. Saiter, S. Thomas, Materials Research Express 7, 064005 (2020).",
+            "Perchloric acid functionalized nano-silica and protic ionic liquid based non-aqueous proton conductive polymer electrolytes, Manjula G. Nair, Saumya R. Mohapatra, Materials Letters 251, 148 - 151, 2019.",
+            "Synergistic effect of nano-ceria dispersion on improvement of Li+ ion conductivity in polymer nanocomposite electrolytes, Saumya R. Mohapatra, Manjula G. Nair and Awalendra K. Thakur, Materials Letters, 221, 232, 2018.",
+            "Effects of temperature and ambient pressure on the resistive switching behaviour of polymer-based atomic switches, Saumya R. Mohapatra, T. Tsuruoka, K. Krishnan, T. Hasegawa and M. Aono, J. Mater. Chem. C, 2015,3, 5715-5720.",
+            "Flexible resistive switching memory using inkjet printing of a solid polymer electrolyte, Saumya R. Mohapatra, T. Tsuruoka, T. Hasegawa, K. Terabe, and M. Aono, AIP Advances 2, 022144, 2012.",
+            "Inter-atomic force constants from correlation effects among thermal displacement of atoms in PbTe. Xianglian, T. Sakuma, Saumya R. Mohapatra, H. Uehara, H. Takahashi, O. Kamishima and N. Igawa, Molecular Simulation 38, 448, 2012.",
+            "Estimation of inter-atomic force constants and phonon dispersion using correlation effects among thermal displacement of atoms in Ge, T.Sakuma, SaumyaR.Mohapatra, N.Isozaki, H.Uehara, Xianglian, K.Basar, H.Takahashi, N.Igawa, Journal of Non-Crystalline Solids 357, 559, 2011.",
+            "Correlation effects among thermal displacements of atoms in KBr, T.Sakuma, Xianglian, N.Shimizu, SaumyaR.Mohapatra, N.Isozaki, H.Uehara, H.Takahashi, O.Kamishima,Solid State Ionics 192, 54, 2011.",
+            "Mechanism of ion transport in YSZ dispersed polymer nanocomposite films: An analysis by vibrational spectroscopy approach, Saumya R. Mohapatra, A. K. Thakurand R. N. P. Chaudhary, Ionics, 16, 437,2010.",
+            "Study of Ion Transport Properties in Nano-YSZ Dispersed Polymer Nanocomposite Films Using Conductivity Spectroscopy, Saumya R. Mohapatra, A. K. Thakur, T. Sakuma, Journal of the Physical Society of Japan 79 (SUPPL. A), 169, 2010.",
+            "Effect of Nanoscopic Confinement on Improvement in Ion Conduction and Stability Properties in an Intercalated Polymer Nanocomposite Electrolyte, Saumya R. Mohapatra, A. K. Thakur and R. N. P. Chaudhary, J. Power Sources, 191, 601, 2009.",
+            "Vibrational Spectroscopy Analysis of Ion Conduction Mechanism in Dispersed Phase Polymer Nnocomposite, Saumya R. Mohapatra, A. K. Thakur and R. N. P. Chaudhary, J. Polym. Sci. Part B: Polym. Phys.,47(1), 60, 2009.",
+            "Studies on PEO Based Sodium Ion Conducting Composite Polymer Films, Saumya R. Mohapatra, A. K. Thakur and R. N. P. Chaudhary, Ionics, 14, 255, 2008"
+          ],
+          "nationalJournals": [
+            "Studies on Dielectric Properties of a Conducting Polymer NanocompositeSystem, Saumya R. Mohapatra, A. K. Thakur and R. N. P. Chaudhary, Indian Journal of Engineering & Materials Science, 15, 347, 2008."
+          ],
+          "internationalConf": [
+            "Electrical bistability in MoS2 nano-sheets doped polymeric nanocomposite films, P. Pathak, R. Deb and S. R. Mohapatra, Materials Today: Proceedings 24, 2295-2301 (2020).",
+            "Liquid Phase Exfoliation of MoS2 Nano-sheets and Observation of Resistive Switching Memory in MoS2 Nano-sheets-PVDF-HFP Composite Films, Deepak, R. Deb, M. G.Nair, S. Halder, A. L.Sharma and S. R. Mohapatra, Materials Today: Proceedings18, 5447-5453 (2019)",
+            "Role of succinonitrile in improving ionic conductivity of sodium-ion conductive polymer electrolyte, M. G. Nair, and S. R. Mohapatra, AIP Conference Proceedings 1953, 090081 (2018); https://doi.org/10.1063/1.5032928, 2nd International Conference on Condensed Matter and Applied Physics, 2017.",
+            "Synthesis of ZnO nanorods and observation of resistive switching memory in ZnO based polymer nanocomposites, M. G. nair, M. Malakar, S. R. Mohapatra, A. Chowdhury, AIP Conference Proceedings 1953, 030171 (2018); https://doi.org/10.1063/1.5032506 , 2nd International Conference on Condensed Matter and applied Physics, 2017.",
+            "Flexible Polymer Atomic Switches using Ink-Jet Printing Technique, Saumya R. Mohapatra, T.Tsuruoka, T. Hasegawa, K.Terabe, and M.Aono, MRS Spring – 2012 meeting, MRS Proceedings, 1430, mrss12-1430-e05-02doi:10.1557/opl.2012.1022, 2012.",
+            "Correlation Effects Among Thermal Displacements of Atoms from Diffuse Neutron Scattering Measurements, T. Sakuma, Saumya R. Mohapatra, J. Yokawa, N. Shimizu, N. Isozaki, H. Uehara, X. Lian, K. Basar, H. Takahashi, O. Kamishima and N. Igawa, Solid State Ionics: Fundamental Researches and Technological Applications, pp439-445, ©2010 Wuhan University of Technology Press.",
+            "Force Constants of Cu crystals from Diffuse Neutron Scattering Measurement,T.Sakuma, SaumyaR.Mohapatra, H.Uehara, R. Sakai, Xianglian, H.Takahashi, N.Igawa, K.Basar, Atom Indonesia, 36, 121, 2010.",
+            "Analysis of Correlation between Order–Disorder Transformation and Ion Conduction Behavior in PEO8LiClO4 + xwt.%Montmorillonite Based Films. Saumya R. Mohapatra, A. K. Thakurand R. N. P. Chaudhary, Solid State Ionics: New Materials for Pollution Free Energy Devices, (Edited by B. V. R. Chowdari et. al.), Macmillan Advanced Research Series, 2008."
+          ],
+          "nationalConf": [
+            "Dielectric Relaxation and Ion Conduction in Dispersed Phase Polymer Nanocomposite Films, Saumya R. Mohapatra, A. K. Thakur and R. N. P. Chaudhary, D. A. E. Proceedings on Solid State Physics Symposium, 53, p.1037, 2008."
+          ]
+        }
+      }
     },
     {
       "name": "Dr. Subhasis Panda",
       "desg": "Assistant Professor",
       "phone": "+91 8399920286",
       "email": "subhasis@phy.nits.ac.in",
-      "img": "/img/faculties/subhasis_panda_30-04-15-15-40-10.jpg"
+      "img": "/img/faculties/subhasis_panda_30-04-15-15-40-10.jpg",
+      "details": {
+        "altEmail": "",
+        "dateOfJoining": "2014-11-03",
+        "profileURL": "",
+        "academicQualifications": {
+          "qualificationDetails": "Ph. D. IIT Kharagpur, 2013. M. Sc. (Physics) IIT Kharagpur, 2008. B.Sc. Physics (Hons.), University of Calcutta, 2006.",
+          "currentlyTeachingSubject": "First year B. Tech. Physics, Electrodynamics I, Quantum Mechanics II & Computational Physics Lab."
+        },
+        "experience": {
+          "experienceDuration": "6 years 9 months",
+          "experienceDesc": "",
+          "specialization": "DFT study of material for optoelectronic applications, Boundary Perturbation Theory, Theoretical Physics & Fuzzy sets",
+          "teachingInterest": "",
+          "researchInterest": "",
+          "administrativeInterest": "",
+          "biographicalSketch": "",
+          "phdScholarsGuided": "Ms. Anupriya Nyayban (ongoing)",
+          "pgScholarsGuided": "13 completed, 02 ongoing 1. Pijush Kalita (12-29-105) 2014 Chaotic dynamics of magnetic pendulum 2. Prafulla Ch. Bhowmick (13-49-106) 2015 Dynamics of double pendulum 3.Nipom Sekhar Das (14-49-113) 2016 Vibration in Tibetan singing bowl and wineglass acoustics 4. Manisha Bhadra (14-49-106) Dynamics of double well potential 5. Prantik Sarmah (15-49-103) 2017 Self-organized criticality and the Abelian sand pile model 6. Dilip Kumar Roy (15-49-114) Studies on PT-symmetric Hamiltonians 7. Narendra N. Hegade (16-49-103) 2018 Digital Quantum Simulation 8. Sapna Mahla (16-49-102) DFT study of Boron Antimony compound using WIEN2k 9. Koppad Basavaraj (17-49-103) 2019 Ab-initio study of structural phase transition in TiO2 10. Roopam Pandey (18-49-109) 2020 Exploratory analysis of perovskites via machine learning 11. Bibhas Ghanta (18-49-102) An investigation on Transport Properties of TiO2 polymorphs 12. Nagarjuna Patra (19-49-103) DFT study of topological insulator (Bi2Se3) using Quantum Espresso 13. Gaurab Kumar Dash (19-49-104) Boundary value perturbation theory",
+          "achievements": "NET (CSIR) 2007, GATE 2008, JEST 2008, JAM 2006.",
+          "projects": "",
+          "booksPublished": ""
+        },
+        "publications": {
+          "internationalJournals": [
+            "Structural, electronic and optical properties of lead free Rb based triiodide for photovoltaic application: an ab initio study by Anupriya Nyayban , Subhasis Panda and Avijit Chowdhury, J. Phys.: Condens. Matter, 33 (2021) 375702",
+            "Distance measure for Pythagorean fuzzy sets with varied applications by J Mahanta & S Panda, Neural Computing and Applications, 2021, doi: 10.1007/s00521-021-06308-9",
+            "A novel distance measure for intuitionistic fuzzy sets with diverse applications by J. Mahanta & S. Panda, International Journal of Intelligent Systems, 36 (2021) 615-627",
+            "Fuzzy expert system for prediction of prostate cancer by J. Mahanta & S. Panda, New Mathematics and Natural Computation, 16 (2020) 163-176",
+            "First principle studies on the optoelectronic properties of rubidium lead halides by Anupriya Nyayban, Subhasis Panda, Avijit Chowdhury, B Indrajit Sharma, Materials Today Communications, 24 (2020) 1-9",
+            "From classical periodic orbits in integrable pi-rational billiards to quantum energy spectrum by Subhasis Panda, Sabyasachi Maulik, Somdeb Chakraborty, S Pratik Khastgir, The European Physical Journal Plus (2019) 134, 308",
+            "Metric deformation and eigenvalue problems in 3D by S. Panda and S. P. Khastgir, Progress of Theoretical & Experimental Physics Journals (2014) 2014: 5",
+            "Boundary perturbations and the Helmholtz equation in three dimensions by S. Panda and G. Hazra, Eur. Phys. J. Plus (2014) 129: 53",
+            "Metric Deformation and Boundary Value Problems in 2D by Subhasis Panda, Tapomoy Guha Sarkar and S. Pratik Khastgir, Progress of Theoretical Physics (2012) 127: 1",
+            "Eigenvalue Problem in Two Dimensions for an Irregular Boundary II: Neumann Condition by S. Panda, S. Chakraborty, S. P. Khastgir, Eur. Phys. J. Plus (2011) 126: 62"
+          ],
+          "nationalJournals": [],
+          "internationalConf": [],
+          "nationalConf": []
+        }
+      }
     },
     {
       "name": "Dr. P. Srinivasan",
       "desg": "Assistant Professor, Grade I",
       "phone": "+91 9488046400",
       "email": "srininits@gmail.com",
-      "img": "/img/faculties/srini1_25-04-20-09-53-40.jpg"
+      "img": "/img/faculties/srini1_25-04-20-09-53-40.jpg",
+      "details": {
+        "altEmail": "srinivasan@phy.nits.ac.in",
+        "dateOfJoining": "2018-10-05",
+        "profileURL": "https://scholar.google.com/citations?user=KNTKmEwAAAAJ&hl=en",
+        "academicQualifications": {
+          "qualificationDetails": "",
+          "currentlyTeachingSubject": ""
+        },
+        "experience": {
+          "experienceDuration": "",
+          "experienceDesc": "Assistant Professor Grade I in the Department of Physics, NIT Silchar from October 2018 to present Assistant Professor in University College of Engineering –Panruti ( A Constituent of Anna University, Chennai) from September 2008 to September 2018 14 Years in the Field of Crystal Growth (Solution growth and Melt growth) 11 years in Teaching Physics in the undergraduate level and Post graduate level",
+          "specialization": "Bulk Crystal Growth, Nonlinear Optics, Nanofibers, Image Processing",
+          "teachingInterest": "",
+          "researchInterest": "• Bulk Growth of organic nonlinear optical crystals by solution growth and melt growth • Investigations on nucleation aspects and finding optimum growth conditions • Development and optimization of furnace configuration for growth of bulk crystals • Furnace construction for Bridgman growth of crystals • High temperature Solution Growth–Flux growth • Swift heavy ion irradiation on organic Nonlinear optical crystals • Nano fibers by electrospinning • Image Processing",
+          "administrativeInterest": "",
+          "biographicalSketch": "Dr. P. Srinivasan was born in Neyveli Township, Tamilnadu in the year 1980. He received his B.Sc and M.Sc ( Applied Physics) from Bharathidasan University , Tiruchirappalli in the year 2000 and 2002 respectively. He received M.Phil (Physics) from M.S University Tirunelveli during 2003 and Ph.D degree from Anna University, Chennai in the year 2008. He was a post doctoral fellow at Dept of Optoelectronics, University of Kerala in the year 2008. He worked as Assistant professor at Anna University Panruti Campus from Sep 2008 till Oct 2018",
+          "phdScholarsGuided": "7 students has completed PhD : 1. Dr.S.Prabu, Title: Investigations on the growth and physicochemical properties of some chalcone derivative crystals. (Completed-2014). 2. Dr.J.Balaji, Title: Growth of some organic and inorganic Single crystals for electro optic modulation application. (Completed-2015). 3.Dr.S.Dinakaran, Title: Investigations on the growth and properties of some organic single crystals for nonlinear optical applications.(Completed-2017). 4. Dr.K.Satheesh Kumar, Title: Studies on the structural and physico chemical properties of organic nonlinear optical crystals.(Completed-2017).5.Dr.Rafi Ahmed, Title: Studies on the growth and physicochemical properties of some organic and metal organic single crystals. (Completed-2017). 6.Dr.S.Vijayakumar, Title: Growth and characterization of some aromatic halo nitro derivative based non linear optical crystals. (Completed-2017). 7.Dr.Sathiyamoorthi, Title: Growth of organic amino acid crystals and their prospects as electro optic modulators (Completed-2017)",
+          "pgScholarsGuided": "",
+          "achievements": "Awards:1. Awarded prestigious Dr.D.S.KothariPost doctoralresearch Fellowship from University Grants Commission, Govt of India . 2. Awarded Senior Research Fellowship from Council of Scientific and industrial research, Govt of India. Patents: 1.Online Payment system and method (201931025522) - Published. 2. Image based system for Detecting Plant Diseases (201931046059) -Filed. 3. System on Chip to Receive Multiple Frequency (202031027960) - Published. Countries Visited: 1. PORTUGAL , 2.SPAIN, 3. MALAYSIA 4. SINGAPORE , 5.USA",
+          "projects": "1. DRDO,Title:Growth of Bulk and Lucid Borate crystals for Deep UV and Vacuum UV generation, Amount(Rs).13.6 Lakhs/- 2009-2012. 2. CSIR Title: Studies on the optical and mechanical properties of ZnO nanofilms, Amount(Rs).17Lakhs/- 2010-2013. 3. DST + FCT Indo-Portugese research collaboration Amount(Rs).10 Lakhs- 2010-2013",
+          "booksPublished": "1. Organic Crystals- Growth and Effects of Irradiation Bonfring Publisher, Coimbatore 2. Engineering Physics-1 Sri Krishna Publishers (Vishnu Prints Media) 3. Physics for Information Science Sri Krishna Publishers (Vishnu Prints Media) 4. Physics for Electronics Engineers Sri Krishna Publishers (Vishnu Prints Media) 5. Materials Science Sri Krishna Publishers (Vishnu Prints Media) 6. Dhar P., Suganya Devi K., Satti S.K., Srinivasan P. (2021) Detail Study of Different Algorithms for Early Detection of Cancer. In: Patgiri R., Biswas A., Roy P. (eds) Health Informatics: A Computational Perspective in Healthcare. Studies in Computational Intelligence, vol 932. Springer, Singapore. https://doi.org/10.1007/978-981-15-9735-0_12 [Indexed: SCI] 7. Suganya Devi K., Arutperumjothi G., Srinivasan P. (2021) Diagnosis Evaluation and Interpretation of Qualitative Abnormalities in Peripheral Blood Smear Images—A Review. In: Patgiri R., Biswas A., Roy P. (eds) Health Informatics: A Computational Perspective in Healthcare. Studies in Computational Intelligence, vol 932. Springer, Singapore. https://doi.org/10.1007/978-981-15-9735-0_17 [Indexed: SCI]"
+        },
+        "publications": {
+          "internationalJournals": [
+            "S.R. Chalana, V.S. Kavitha, P. Srinivasan, S. Rafi Ahamed, Gargi Tiwari, V.P. Mahadevan Pillai, Influence of argon pressure on the crystalline phase formation of RF sputtered zinc sulfide thin films, Materials Today: Proceedings, Volume 29, Part 3, 2020, Pages 917-922, ISSN 2214-7853, https://doi.org/10.1016/j.matpr.2020.05.347.",
+            "Sekar K., Suganya Devi K., P. Srinivasan, (2020), ” Energy Efficient Data Gathering using Spatio-Temporal Compressive Sensing for WSNs”, Wireless Personal Communications , Springer,. (Accepted) [Indexed: SCIE, Impact Factor: 1.061]",
+            "S.K. Barik and S.K. Bera, Electrical and magnetic properties of (BiLi)1/2(FeV)1/2O3, Proceedings of the International Conference on Physics Science and Technology (ICPST), 2010, Hong Kong, China.",
+            "Suganya Devi, K., P. Srinivasan, Sivaji Bandyopadhyay, (2020), “H2K- A rubust and optimum approach for detection and classification of groundnut leaf diseases”, journal of Computer and Electronics in Agriculture, Elsevier. (Accepted) [Indexed: SCIE, Impact Factor: 5.565]",
+            "Prasenjit Dhar, Suganya Devi, K., Satish Kumar Satti, P. Srinivasan,(2020), ” A study on various segmentation and machine learning algorithms used for early detection of cancer”, Journal of Advanced Research in Dynamical and Control Systems, Volume 12, Issue 6, Pages:1416-1432. [Indexed: Scopus]",
+            "S.K. Barik and S.K. Bera, Electrical and magnetic properties of (BiLi)1/2(FeV)1/2O3, Proceedings of the International Conference on Physics Science and Technology (ICPST), 2010, Hong Kong, China.",
+            "Goluguri, N. V. Raja Reddy, Suganya Devi, K. Srinivasan, P., (2020),”Rice-net: an efficient artificial fish swarm optimization applied deep convolutional neural network model for identifying the Oryza sativa diseases Neural Computing and Applications” Neural Computing and Applications, Springer, https://doi.org/10.1007/s00521-020- 05364- x. [Indexed: SCIE, Impact Factor: 4.774]",
+            "Satish Kumar Satti, Suganya Devi,K., Prasenjit Dhar, P. Srinivasan,(2020), “A machine learning approach for detecting and tracking road boundary lanes”, ICT Express, ISSN 405-9595, https://doi.org/10.1016/j.icte.2020.07.007. [Indexed: Scopus, Impact Factor: 4.317]",
+            "Suganthi and P.Srinivasan Studies on the electrospun composite Picric acid PVA nanofibers https://doi.org/10.1016/j.matpr.2019.06.373 Materials Today proceedings 21(2020) 401- 403",
+            "Jesby George , A.K. Thomas , D. Sajan S. Sathiyamoorthi , P. Srinivasan , Nithin Joy , Reji Philip Experimental and DFT/TD-DFT approach on photo-physical and NLO properties of 2, 6-bis (4-Chlorobenzylidene) cyclohexanone https://doi.org/10.1016/j.optmat.2019.109620 Opt. Mater. 100 (2020) 109620 Impact Factor 3.24, Elsevier",
+            "J.Balaji, P.Srinivasasn, S.Prabu, Merin George, D.Sajan Growth and dielectric studies of Toluidine tartrate single crystals: a Novel organic NLO material https://doi.org/10.1016/j.molstruc.2020.127750 J.Mole.Struct 1207(2020) 127750 Impact Factor 2.9 Elsevier",
+            "Satish Kumar Satti, Suganya Devi K, Vishnu Murthy, Srinivasan P, (2019), ‘Efficient Technique for removal of white and mixed noises in gray-scale images’, International journal of Innovative engineering and Management Research, Vol.8(9), pp.22-36. [Indexed: Elsevier SSRN, Impact Factor : 7.812]",
+            "Satish Kumar Satti, Suganya Devi K, Prasenjit Dhar, Srinivasan P, (2019), ‘An Efficient Noise separation technique for Removal of Gaussian and Mixed Noises in monochrome and color Images’, International Journal of Innovative Technology and Exploring Engineering, Vol.8(9), pp.588-601. [Indexed: Scopus]",
+            "M.P.Vaishnnave, Suganya Devi,K., Srinivasan, P., (2018), 'A Survey on Cloud Computing and Hybrid Cloud, International Journal of Applied Engineering Research, Vol. 14(12), pp.429-434. [Indexed: Scopus, Impact Factor: 0.51]",
+            "M.P.Vaishnnave, Suganya Devi, K., Srinivasan, P., (2018), 'A Study on Deep Learning models for Satellite Imagery', International Journal of Applied Engineering Research, Vol. 14(4), pp.881-887. [Indexed: Scopus, Impact Factor : 0.51]",
+            "A. Senthil Murugan & K. Suganya Devi & A. Sivaranjani & P. Srinivasan , ‘A study on various methods used for video summarization and moving object detection for video surveillance applications Multimedia Tools Appl. (2018) 77:23273–23290 https://doi.org/10.1007/s11042-018-5671-8 ImpactFactor 1.546, Springer Publications",
+            "S. Sathiyamoorthi &P. Srinivasan Synthesis, spectral, thermal, optical and dielectric studies of new arylidene NLO crystal: 2,6 – Bis (2,6- dichloro benzylidene) cyclohexanone, Materials Research Innovations 2018 (Taylor and Francis) ImpactFactor0.81) DOI: 10.1080/14328917.2018.1481600",
+            "S. Rafi Ahamed, P. Srinivasan, J. Balaji, C. Balakrishnan & G. Vinitha, ‘ Structural, theoretical and third-order nonlinear optical investigations of N’-[(E)- bromopheny 4 (phenyl) methylidene]–4-methylbenzene sulfono hydrazide’ MOLECULAR CRYSTALS AND LIQUID CRYSTALS 2018, VOL. 665, NO. 1, 194–206, https://doi.org/10.1080/15421406.2018. (Impact Factor 0.86)",
+            "Rafi Ahamed S, Srinivasan P & Balaji J,‘ Growth and Characterization of Organometallic NLO material: Cesium Hydrogen Tartrate’, Materials Research Innovations, 2017 (Taylor and Francis). ImpactFactor0.81). DOI:10.1080/14328917.2017.1320837.",
+            "S. Rafi Ahamed, P. Srinivasan, J. Balaji, S. Gokul Raj, S. MohanStructural, spectral, thermal, micro hardness, dielectric and etching studies of third order nonlinear optical material Cesium Sulfamate Journal of Alloys and Compounds,Elsevier PublicationsVolume 701, 15 April 2017, Pages 822-827(ImpactFactor 3.13) https://doi.org/10.1016/j.jallcom.2017.01.158",
+            "V.Sasikala , D.Sajan, L.Joseph.,J.Balaji, S.Prabu,P. Srinivasan “Spectroscopic and DFT- based computational studies on the molecular electronic structural characteristics and the third-order nonlinear property of an organic NLO crystal: (E)-N′-(4-chlorobenzylidene)-4-methylbenzenesulfonohydrazide” Chemical Physics Letters, Elsevier Publications Volume 674, 16 April 2017, Pages 11-27 (ImpactFactor 1.86) https://doi.org/10.1016/j.cplett.2017.02.039",
+            "J. Balaji, S. Prabu, D.Sajan,P. SrinivasanInvestigations on spectroscopic, dielectric and optical studies in 3-hydroxypyridinium 4-nitrobenzoate crystals Journal of Molecular Structure Elsevier Publications 2017 1137 142-149 (ImpactFactor 1.756) https://doi.org/10.1016/j.molstruc.2017.02.040",
+            "J.Balaji.,S.Prabu., P.Srinivasan ‘ Growth and Characterisation of 2’,3,4,4’, 5-Pentamethoxychalcone (PMC) – for nonlinear optical applications’ Journal of Molecular Structure Elsevier Publications 1133(2017) 135-143(Impact Factor 1.756) https://doi.org/10.1016/j.molstruc.2016.11.081",
+            "Dinagaran, S, Srinivasan, P, Vijayakumar, S &Balaji, J, 2016, ‘Growth and characterization of anthranilic acid crystals’ Journal of Advances in Chemistry, Vol. 12, no. 11, pp. 4480-4487, ISSN : 2321-807X (Annexure I). https://doi.org/10.24297/jac.v12i11.823",
+            "Vijayakumar, S, Srinivasan, P, Dinagaran, S &Balaji, J 2016, ‘Growth, Structural, Spectral and Nonlinear Optical investigations of 2,4-Dinitrochlorobenzene (DNCB) Crystals’ International Journal of Innovation and Scientific Research, ISSN 2351-8014, vol. 25, no. 2, pp. 492-500.",
+            "Vijayakumar, S, Srinivasan, P, Dinagaran, S &Balaji, J, (2016), ‘Growth and characterization of an Organic Nonlinear Optical Crystal: 1-Iodo-3-Nitrobenzene (INB)’Journal of Advances in Chemistry, ISSN: 2321- 807X, vol. 12, no. 9, pp. 4364-4370.(Annexure I) DOI: https://doi.org/10.24297/jac.v12i9.4218",
+            "K. Satheshkumar., P. Srinivasan., S. Sudhahar, ’Effect of rare earth Nd+ ion on the growth, structural, spectral, optical and mechanical properties of piperidinium p-hydroxybenzoate single crystals.’ Optik Elsevier Publications 127 (2016) 1087-1093. https://doi.org/10.1016/j.ijleo.2015.10.188 .(Impact Factor 1.109)",
+            "J.Balaji, S.Prabu, P.Srinivasan, “ (E)-N′-(4-chlorobenzylidene)-4-methylbenzenesulfonohydrazide (4CBTH) – Synthesis and characterization of organic NLO crystal”, Journal of Crystal Growth ,Volume 452, 15 October 2016, Pages 189-197 https://doi.org/10.1016/j.jcrysgro.2015.11.018 .(Impact Factor 1.809)",
+            "Vijayakumar, S, Srinivasan, P&Dinagaran, S,2015,‘Growth and characterization of Organic nonlinear optical (NLO) 1, 3-dinitrobenzene single crystals by vertical bridgmann method and its prospects as electro-optic modulators’ International Journal of Applied Engineering Research, ISSN: 0973-4562, vol. 10, no.17, pp. 38055-38060",
+            "Suganya Devi. K., Srinivasan.P (2015), ‘A Novel approach for Facial Expression analysis in real time applications in real time applications using SIFT flow and SVM’, Australian Journal of Basic and applied sciencesScimago PublishersVol. 9, No. 21, pp.1-6",
+            "Suganya Devi. K., Srinivasan.P (2015), ‘A Survey on compressed video segmentation’ Australian Journal of Basic and applied sciences’, Vol. 9, No. 21, pp.115-119.",
+            "Suganya Devi. K., Srinivasan. P., Selvamani. K (2015), ‘A Survey on Analysis of Human Facial Expressions and Gestures for Emotion Recognition’ International Journal of Applied Engineering Research, Vol. 10, No. 33, pp.25425-25430",
+            "Suganya Devi. K., Srinivasan. P.,Selvamani. K (2015), ‘A Fast and Efficient Motion Tracking Using superpixel Extraction in Compressed Video Sequences’ International Journal of Applied Engineering Research, Vol. 10, No. 33, pp.25397-25405",
+            "V.S. Kavitha, R. Reshmi Krishnan, R. SreejaSreedharan, R. Jolly Bose, N. Venugopala Pillai, V. Ganesan, P. Sreenivasan, V. Ragavendran, S. Muthunatesan, V.P. Mahadevan Pillai, “ Effect of annealing on the structural and optical properties of laser ablated nanostructured barium tungstate thin films”, Materials Science in Semiconductor Processing Elsevier Publications Volume 37, September 2015, Pages 159- 170(ImpactFactor 2.356) https://doi.org/10.1016/j.mssp.2015.02.049",
+            "R. Reshmi Krishnan, R. SreejaSreedharan, S.K. Sudheer, C. Sudarsanakumar, V. Ganesan, P. Srinivasan, V.P. Mahadevan PillaiEffect of tantalum doping on the structural and optical properties of RF magnetron sputtered indium oxide thin films Materials Science in Semiconductor Processing Elsevier Publications, Volume 37, September 2015, Pages 112-122 ImpactFactor 2.356) https://doi.org/10.1016/j.mssp.2015.02.033",
+            "J. Balaji, S. Prabu, J. J. F. Xavier and P. Srinivasan Crystal structure of N -[(E)-(4-chlorophenyl) (phenyl)methylidene]-4-methylbenzenesulfonohydrazide IUCR Publications Acta Cryst. (2015). E71, o45–o46 doi:10.1107/S2056989014026723",
+            "J. Balaji , S. Prabu , P. Srinivasan , , T. Srinivasan , D. Velmurugan Studies on the growth and characterization of a nonlinear optical crystal: 3 HydroxyPyridinium Tartrate Mono Hydrate (3HPTMH) SpectrochimicaActa Part A: Molecular and Biomolecular Spectroscopy Elsevier Publications 144 (2015) 139–147 (Impact Factor 2.12) https://doi.org/10.1016/j.saa.2015.01.091",
+            "Dinagaran, S, Srinivasan, P, Vijayakumar, S &Buvaneshwari, D, 2014, ‘A study on the growth and characteristic properties of a semi organic NLO material: sodium chloride doped glycine crystals’ International Journal of ChemTech Research, Vol.6, no.3, pp. 1673-1676, ISSN : 0974-4290 (Annexure II).",
+            "K. Sathesh Kumar , P. Srinivasan , V.P. MahadevanPillai A detailed perceptive on the growth and characterization studies of para amino hippuric acid (PAHA) single crystals Spectro chimica Acta Part A: Molecular and Biomolecular Spectroscopy Elsevier Publications 132 (2014) 263–270 (Impact Factor 2.12) https://doi.org/10.1016/j.saa.2014.04.150",
+            "J. Balaji, J. John Francis Xavier, S. Prabu and P. Srinivasan Crystal structure of (E)-N -(4-chlorobenzylidene)-4-methyl benzene sulfono hydrazide: a hexagonal polymorph Acta Cryst. (2014). E70, o1250–o1251 DOI:10.1107/S1600536814023721",
+            "Prabu, S, Nagalakshmi, R., Balaji, J & Srinivasan, P 2014, ‘Investigations on the Vibrational modes and Non-Linear Optical properties of 4-Fluoro Chalcone crystal’, SpectrochimicaActa Part A: Molecular and Biomolecular Spectroscopy, Elsevier Publications vol. 129, pp. 114-120 (Impact Factor 2.12) https://doi.org/10.1016/j.saa.2014.03.030",
+            "Prabu, S, Nagalakshmi, R., Balaji, J & Srinivasan, P, 2014, ‘Synthesis, crystal growth, studies on Vibrational spectroscopy and Nonlinear optical Properties of 4-methoxy-4'-chlorochalcone’, Materials Research Bulletin, Elsevier Publications vol.50, pp.446-455. (Impact Factor 2.1) https://doi.org/10.1016/j.materresbull.2013.11.003",
+            "Prabu, S, Nagalakshmi, R & Srinivasan, P 2013, ‘Investigations on the Physico chemical properties of 4-BromoChalcone single crystals for nonlinear optical applications’, SpectrochimicaActa Part A: Molecular and Biomolecular Spectroscopy, vol. 103, pp. 45-52. (ImpactFactor 2.12) https://doi.org/10.1016/j.saa.2012.10.073",
+            "P. Srinivasan and P. Rajesh, Effect of Temperature on the structural and optical properties of chemically deposited PbS thin films, Thin Film Technology 42 (2012) 6206-6208",
+            "C. Jesintha John, M. Amalanathan, A.R. Twinkle, P. Srinivasan, I. Hubert Joe, (2011), “Vibrational spectra and first order hyper polarizability studies of dimethyl aminopyridinium4-nitrophenolate 4-nitrophenol, SpectrochimicaActaA Elsevier Publications 81(2011)151-161(Impact Factor 2.12) https://doi.org/10.1016/j.saa.2011.05.086",
+            "T. Kanagasekarn, P. Mythili, P. Srinivasan, Shailesh N. Sharmaand R. Gopalakrishnan, (2008)‘ Synthesis, Growth and Characterisation of organic NLON-Bromosuccinimde crystal, Materials Letters Elsevier Publications 62(2008) 2486–2489(Impact Factor 2.26) https://doi.org/10.1016/j.matlet.2007.12.039",
+            "Srinivasan P., Vidhyalakshmi Y. and Gopalakrishnan R., (2006) ‘Studies on the Synthesis, Growth, Crystal Structure, and Nonlinear Optical Properties of a Novel Nonlinear Optical Crystal: l-Argininium-4-nitro Phenolate Monohydrate (LARP), ’ Crystal Growth and Design .ACS American Chemical Society Publications Vol. 8,No. 7, pp.2329-2334.(Impact Factor 4.559) DOI: 10.1021/cg701126t",
+            "Srinivasan P., Kanagasekaran T. and Gopalakrishnan R., (2008) ‘A highly efficient organic second-order nonlinear optical donor-acceptor l-Valinium picrate single crystals’ Crystal Growth and Design Vol.8, No. 7, pp. 2340-2345. ACS American Chemical Society Publications (Impact Factor 4.559) DOI: 10.1021/cg701143n",
+            "Srinivasan P., Kanagasekaran T., Kulriya P.K., Kanji Lal D. and Gopalakrishnan R., ‘Ruminations on the Effect of MeV Si8+and Ag8+ionirradiationonnonlinearoptical l-valiniumpicrate single crystals’ PhysicaB (Communicated)",
+            "K. Rameshbabu , P. Kannan* , M. Gunasekaran , P. Srinivasan , R. Ramesh Babu, R. Gopalakrishnan , and P. Ramasamy ‘Synthesis and characterization of 4,4‛-dihydroxy-α-methylstilbene crystal Crystal Research and Technology, Wiley Publications Vol. 41, No. 7, pp. 718-722. (Impact Factor 1.12) DOI 10.1002/crat.200510654",
+            "Srinivasan P., Kanagasekaran T. and Gopalakrishnan R., (2008) ‘Factor Group Analysis and Hyperpolarisability studies of Nonlinear Optical L-Asparaginium Picrate(LASP) crystals’ Spectrochimica Acta A, Vol. 71. No.2. pp. 592-596 ,2008 (ImpactFactor 1.270) https://doi.org/10.1016/j.saa.2007.12.044",
+            "T. Kanagasekarn, P. Mythili, P. Srinivasan, Ahmad Y Nooraldeen, P.K. Palanisamy, R. Gopalakrishnan, (2008), ”Studies on the growth, optical ,thermal and mechanical properties of pureando-nitroaniline doped Benzil crystals’, Crystal Growth and Design American Chemical Society Publications(ACS) Vol.8, No.7, pp. 2335-2339.(Impact Factor 4.559) DOI: 10.1021/cg701132f",
+            "Aravindan A., Srinivasan. P., Vijayan N., Gopalakrishnan R., Ramasamy P., (2008) ‘A Comparative study on The growth and Characterisation of nonlinear optical amino acid crystals: L-AlanineandL- Alaninealaninium nitrate,” Spectrochimica ActaA Elsevier Publications Volume 71, Issue 2, 15 November 2008, Pages 297-304 (ImpactFactor 1.270) https://doi.org/10.1016/j.saa.2007.12.023",
+            "Srinivasan P., Kanagasekaran T., Ahamad Y. Nooraldeen, Dhinaa A.N., Palanisamy P.K., Gopalakrishnan R., (2008), ‘Z-scan determination of third order optical nonlinearity of L-Asparaginiumpicrate crystal’ Vol.18.,No.5.pp.1-4 (ImpactFactor0.433) Laser Physics, Institute of Physics Publishing (IOP) DOI 10.1021/cg060094+",
+            "Stella Mary, S. Shahil Kirupavathy, P. Mythili, P. Srinivasan, T. Kanagasekaran, Gopalakrishnan, (2008) , ”Studies on the growth, optical, electrical and spectral properties of Potassium pentaborate single crystals’,Spectrochimica Acta A Elsevier Publications 71(2008) 10–16 (ImpactFactor 1.270) https://doi.org/10.1016/j.saa.2007.11.014",
+            "Srinivasan P., Kanagasekaran T., KanjiLal D., Gopalakrishnan R. And Ramasamy P., (2008) ‘Contemplations on the impressions of MeV Swift heavy ion irradiation on nonlinear optical Dimethyl amino pyridinium 4nitrophenolate-4nitrophenol(DMAPNP)single crystals’, Radiation Effects and Defects in Solids Taylor and Francis Publications, Vol.163,No. 8,693–702. (ImpactFactor 0.82) https://doi.org/10.1080/10420150701772901",
+            "Aravindan A., Srinivasan P., Vijayan N., Gopalakrishnan R. and Ramasamy P. (2007), ‘Investigations on the Growth, Optical behaviour and factor group of an NLO Crystal: L-alanine alaninium nitrate’, Crystal Research and Technology Wiley Publications, Vol. 42, No. 11, pp. 1097-1103. (ImpactFactor 1.12). https://doi.org/10.1002/crat.200710954",
+            "Kanagasekaran T., Mythili P., Srinivasan P., Vijayan N., Kanjilal D., Gopalakrishnan R. and Ramasamy P. (2008),‘ On the observations of Physical, chemical, optical and thermal changes induced by 50 siliconions in Benzimidazole single crystals’, Materials Research Bulletin Elsevier Publications, Vol. 43, pp. 852–863. (ImpactFactor 2.1) https://doi.org/10.1016/j.materresbull.2007.05.014",
+            "Kanagasekaran T., Mythili P., Srinivasan P., Vijayan N., Bhagavannarayana G., Mohanty T., Kanjilal D., Gopalakrishnan R. and Ramasamy P. (2007), ‘Effects of 50MeVSiion irradiation on nonlinear optical benzimidazole single crystals’ Crystal Research and Technology, Wiley Publications Vol. 42, No. 12, pp. 1376-1381. (ImpactFactor 1.12) https://doi.org/10.1002/crat.200711035",
+            "Kanagasekaran T., Mythili P., Srinivasan P., Vijayan N., Bhagavannarayana G., Gopalakrishnan R. And Ramasamy P. (2007), ‘Investigations on nucleation, thermodynamical parameters of Benzimidazole crystal from low temperature solution growth’ Crystal Research Technology, Wiley Publications, Vol.42, No. 10, pp. 995-1001.(ImpactFactor 1.12) https://doi.org/10.1002/crat.200710920",
+            "Shahil Kirupavathy S., Stella Mary S., Srinivasan P.,Vijayan N.,Bhagavannarayana G. and Gopalakrishnan R. (2007), ‘Investigations on the Growth and characterization studies of Cadmium ThioureaAcetate (CTA) single crystals’ Journal of Crystal Growth, Elsevier Publications, Vol.306,pp. 102-110. (ImpactFactor 1.69) https://doi.org/10.1016/j.jcrysgro.2007.03.036",
+            "Srinivasan P., Kanagasekaran T.,KanjiLal D.,Gopalakrishnan R., and Ramasamy P. (2007),‘Cognitions on the effects of Swift Heavy Ion(SHI) Irradiation on the dielectric and optical behavior in l-Asparaginium Picrate’, Nuclear Inst. And Methods in Physics ResearchB, Elsevier Publications, Vol. 256, pp.698-704. (ImpactFactor 1.1) https://doi.org/10.1016/j.nimb.2007.01.166",
+            "Srinivasan P., Kanagasekaran T., Vijayan N., Bhagavan narayana G., Gopalakrishnan R. and Ramasamy P. (2007), ‘Studies on the Growth, Optical ,thermal and dielectric aspects of a proton transfercomplex-Dimethylaminopyridinium4-nitrophenolate4-nitrophenol (DMAPNP) for nonlinear optical applications‟, Optical Materials, Elsevier Publications, Vol.30, pp553-564.(ImpactFactor 2.07) https://doi.org/10.1016/j.optmat.2007.01.014",
+            "Srinivasan P., Kanagasekaran T., Vijayan N., Balamurugan R., Charles SathiyaPrakash A.R., Gopalakrishnan R. and Ramasamy P. (2006), ‘Structural, Dielectric and Optical Properties of N-(2Chlorophenyl) - (1-Propanamide) (NCP) single Crystals’, Journal of Crystal Growth, Elsevier Publications, Vol.297, pp.372-381. (ImpactFactor 1.69) https://doi.org/10.1016/j.jcrysgro.2006.10.182",
+            "4. Rameshbabu K., Kannan P., SrinivasanP., Ramesh BabuR., GopalakrishnanR. and Ramasamy P. (2006),‘ Synthesis, Growth and Characterization of 4,4’-dihydroxy- - methylstilbene crystal’, Crystal Research Technology, Vol.41, No. 7, pp. 718-722. Wiley Publications (ImpactFactor 1.12)",
+            "Srinivasan P., Kanagasekaran T., Gopalakrishnan R., Bhagavannarayana G. and RamasamyP. (2006), “Studies on the growth and Characterization of l-AsparaginiumPicrate (LASP) - a novel Nonlinear Optical Crystal”, Crystal Growth and Design, American Chemical Society Publications Vol.6, No.7, pp.1663-1670. (ImpactFactor 4.339) 10.1021/cg060094+",
+            "Srinivasan P., Gunasekaran M., Kanagasekaran T., Gopalakrishnan R. and Ramasamy P. (2006), ‘2,4,6- Trinitrophenol (TNP): AnOrganicmaterialfornonlinearopticalapplications’, Journal of Crystal Growth, Elsevier Publications, Vol.289, pp. 639-646. (ImpactFactor 1.809) https://doi.org/10.1016/j.jcrysgro.2005.12.063",
+            "Kanagasekaran T., Gunasekaran M., Srinivasan P., Jayaraman D., Gopalakrishnan R. and Ramasamy P. (2005), \"Studies on Growth, induction period, interfacial energy and metastable zone width of m-Nitroaniline‟, Crystal Research and Technology, Wiley Publications, Vol.40, No.12, pp.1128-1133. (ImpactFactor 1.12) https://doi.org/10.1002/crat.200410504"
+          ],
+          "nationalJournals": [],
+          "internationalConf": [
+            "K. Sekar, K. Suganya Devi, P. Srinivasan and V. M. SenthilKumar, (2020)”Deep Wavelet Architecture for Compressive sensing Recovery,” 2020 Seventh International Conference on Information Technology Trends (ITT), Abu Dhabi, United Arab Emirates, 2020, pp. 185-189, doi: 10.1109/ITT51279.2020.9320773.",
+            "Satti S.K., Suganya Devi K., Dhar P., Srinivasan P., (2020) Enhancing and Classifying Traffic Signs Using Computer Vision and Deep Convolutional Neural Network, Machine Learning, Image Processing, Network Security and Data Sciences. MIND 2020. Communications in Computer and Information Science, vol 1240. Springer, Singapore. https://doi.org/10.1007/978-981-15-6315-7_20. [Indexed: Scopus]",
+            "Sekar K, Suganya Devi K., P. Srinivasan, T. Dheepa, B. Arpita and L. Dolendro singh, (2020)”Joint Correlated Compressive Sensing based on Predictive Data Recovery in WSNs,” 2020 -International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE), Vellore, India, (2020),pp. 1-5. DOI: 10.1109/ic-ETITE47903.2020.181. [Indexed: Scopus]",
+            "Satish Kumar Satti, Suganya Devi K., Vishnu Murthy, Srinivasan P, (2019), ‘Efficient Technique for removal of white and mixed noises in gray-scale images’, Elsevier-International Conference on Innovations in Science and Engineering (ICISE-2K19), August 31, 2019, pp.18. [Indexed: SSRN]",
+            "M.P.Vaishnnave, K.Suganya Devi, P.Srinivasan, G.Arutperumjothi, (2019), ‘Detection and Classification of Groundnut Leaf Diseases using KNN classifier’, 2nd IEEE – International Conference on systems, Computation, Automation and Networking (ICSCAN 2019), March 29-30, 2019. [Indexed: Scopus]",
+            "M.P.Vaishnnave, K.Suganya Devi, G.Arutperumjothi, P.Srinivasan, (2019)’Analysis of Castor Plant Diseases Using SVM& deep CNN Technique’, IEEE international Conference on Recent Advances in Energy-efficient Computing and Communication (ICRAECC 2019), March 7-8, 2019.",
+            "Jayachitra J., Suganya Devi K., Vaiyshnavi M P., and Srinivasan P.,(2017) ‘GBU based Face Recognition Techniques: A Review’ IEEE International Conference on Advanced Computing & Communication systems (ICACCS -2017), pp.1236 -1239. [Indexed: Scopus]",
+            "Suganya Devi K., Senthilmurugan. A., Sivaranjani A., and Srinivasan P., (2017),‘Development of Interactive Fashion Design support System: Using IDS (Interactive Display on Any Surface) –A Case Study’ IEEE International Conference on Advanced Computing & Communication systems 2017, pp. 1298-1303. [Indexed: Scopus]",
+            "Suganya Devi K. and Srinivasan P.,(2016), ‘Remote monitoring and security alert based on Motion Detection using mobile’ American Institute of Physics, 1715, 020067 (2016); doi: 10.1063/1.4942749. [Indexed: Crossref]",
+            "S.Sathiyamoorthy, P.Srinivasan, K.Suganya Devi, (2015), ‘Synthesis, spectral, thermal, optical and dielectric studies of some organic arylidene derivatives’, International Conference on Computaional mathematics and physical sciences, Singapore SG, July 4-5, 2015, 19(7) pp.62-65 ISSN: 2010- 376X. [Indexed: Scopus]",
+            "Suganya Devi. K., P.Srinivasan, MP vaiyshnavi, G. Arutperumjothi, (2015),’Secure E-Pay system using steganography and visual cryptography’, International Conference on Computational mathematics and physical sciences, Singapore SG, July 4-5, 2015, 19(7) pp.62-65 ISSN: 2010-376X.[Indexed: OpenAIRE]",
+            "P. Srinivasan, R. Nagalakshmi, DmitryIsakov, Etelvinade Matos Gomes,Michael Scott Belsley, Ruminationson, “The effect of MeV Si8+ and Ag8+ ion irradiation on nonlinear opticall-valinium picrate single crystals AIPConf.Proc.1482,695(2012) ; doi:10.1063/1.4757561"
+          ],
+          "nationalConf": []
+        }
+      }
     }
   ]
 }

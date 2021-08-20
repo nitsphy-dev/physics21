@@ -16,10 +16,18 @@ const useStyles = makeStyles((theme) => ({
     fontSize: "3vh",
     "& p": {
       fontSize: "2vh",
+      lineHeight: "3.5vh",
       "& b": {
         fontSize: "2.2vh",
         textTransform: "uppercase",
       },
+    },
+    "& button": {
+      backgroundColor: "var(--theme1-100)",
+      color: "white",
+    },
+    "& button:hover": {
+      color: "black",
     },
   },
   facultyImg: {
