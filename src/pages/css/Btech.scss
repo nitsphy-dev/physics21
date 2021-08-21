@@ -1,0 +1,44 @@
+main.btech {
+	div.heading {
+		width: 80%;
+		margin: 5vh auto 3vh auto;
+		border-bottom: 0.2vh solid var(--theme1-100);
+
+		font-size: 3.5vh;
+		text-align: center;
+	}
+
+	div.sub-heading {
+		width: 60%;
+		margin: 3vh auto 1.5vh auto;
+		border-bottom: 0.1vh solid var(--theme1-100);
+
+		font-size: 3vh;
+		text-align: center;
+	}
+
+	.title {
+		font-size: 4.5vh !important;
+	}
+
+	div.msg,
+	p.msg {
+		width: 90%;
+		margin: 0 auto 7vh auto;
+		box-sizing: border-box;
+		padding: 2vh 4vh;
+		text-align: justify;
+		font-size: 2.6vh;
+	}
+
+	div.download {
+		color: black;
+		margin: 2vh auto;
+		text-align: center;
+		font-weight: bolder;
+	}
+
+	ol li {
+		margin-bottom: 1vh;
+	}
+}
