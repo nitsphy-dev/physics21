@@ -33,11 +33,7 @@ function TabPanel(props) {
 			id={`simple-tabpanel-${index}`}
 			aria-labelledby={`simple-tab-${index}`}
 			{...other}>
-			{value === index && (
-				<Box p={3}>
-					<Typography>{children}</Typography>
-				</Box>
-			)}
+			{value === index && <Box p={3}>{children}</Box>}
 		</div>
 	);
 }
@@ -46,6 +42,17 @@ const useStyles = makeStyles(theme => ({
 	root: {
 		flexGrow: 1,
 		backgroundColor: theme.palette.background.paper,
+	},
+
+	tableCont: {
+		width: '90%',
+		boxSizing: 'border-box',
+		margin: '0 auto',
+	},
+
+	panel: {
+		width: '90%',
+		margin: '0 auto',
 	},
 }));
 
@@ -72,10 +79,10 @@ const Msc = props => {
 	return (
 		<main className='msc'>
 			<div className='heading'>M. Sc.</div>
-			<p>Course Structure</p>
+			<p className='msg'>Course Structure</p>
 
-			<TableContainer component={Paper}>
-				<Table aria-label='simple table'>
+			<TableContainer component={Paper} className={classes.tableCont}>
+				<Table aria-label='simple table' size='medium'>
 					<TableHead>
 						<TableRow>
 							<TableCell align='center'>Semester</TableCell>
@@ -109,18 +116,19 @@ const Msc = props => {
 			<br />
 			<br />
 			<br />
-			<AppBar position='static'>
+			<AppBar position='static' className={classes.panel}>
 				<Tabs
 					value={value}
 					onChange={handleChange}
-					aria-label='simple tabs example'>
+					aria-label='simple tabs example'
+					variant='scrollable'>
 					<Tab label='Semester I' {...a11yProps(0)} />
 					<Tab label='Semester II' {...a11yProps(1)} />
 					<Tab label='Semester III' {...a11yProps(2)} />
 					<Tab label='Semester IV' {...a11yProps(2)} />
 				</Tabs>
 			</AppBar>
-			<TabPanel value={value} index={0}>
+			<TabPanel value={value} index={0} className={classes.panel}>
 				<div className='tab-heading'>Semester-I</div>
 				<br />
 				<br />
@@ -181,7 +189,7 @@ const Msc = props => {
 					</Table>
 				</TableContainer>
 			</TabPanel>
-			<TabPanel value={value} index={1}>
+			<TabPanel value={value} index={1} className={classes.panel}>
 				<div className='tab-heading'>Semester-II</div>
 				<br />
 				<br />
@@ -251,7 +259,7 @@ const Msc = props => {
 					</Table>
 				</TableContainer>
 			</TabPanel>
-			<TabPanel value={value} index={2}>
+			<TabPanel value={value} index={2} className={classes.panel}>
 				<div className='tab-heading'>Semester-III</div>
 				<br />
 				<br />
@@ -323,7 +331,7 @@ const Msc = props => {
 					</Table>
 				</TableContainer>
 			</TabPanel>
-			<TabPanel value={value} index={3}>
+			<TabPanel value={value} index={3} className={classes.panel}>
 				<div className='tab-heading'>Semester-IV</div>
 				<br />
 				<br />
