@@ -51,14 +51,27 @@ const useStyles = makeStyles(theme => ({
 	},
 
 	panel: {
-		width: '90%',
+		width: '100%',
 		margin: '0 auto',
+	},
+
+	bar: {
+		width: '100%',
+		margin: '0 auto',
+		backgroundColor: 'var(--theme2-100)',
+		color: 'var(--theme3-100)',
+	},
+
+	tableHead: {
+		backgroundColor: 'var(--theme4-100)',
+		color: 'var(--theme1-100)',
+		fontWeight: 'bold',
 	},
 }));
 
 function a11yProps(index) {
 	return {
-		id: `simple-tab-${index}`,
+		id: `wrapped-tab-${index}`,
 		'aria-controls': `simple-tabpanel-${index}`,
 	};
 }
@@ -85,8 +98,12 @@ const Msc = props => {
 				<Table aria-label='simple table' size='medium'>
 					<TableHead>
 						<TableRow>
-							<TableCell align='center'>Semester</TableCell>
-							<TableCell align='center'>Credit</TableCell>
+							<TableCell align='center' className={classes.tableHead}>
+								Semester
+							</TableCell>
+							<TableCell align='center' className={classes.tableHead}>
+								Credit
+							</TableCell>
 						</TableRow>
 					</TableHead>
 					<TableBody>
@@ -116,12 +133,13 @@ const Msc = props => {
 			<br />
 			<br />
 			<br />
-			<AppBar position='static' className={classes.panel}>
+			<AppBar position='static' className={classes.bar}>
 				<Tabs
 					value={value}
 					onChange={handleChange}
 					aria-label='simple tabs example'
-					variant='scrollable'>
+					variant='scrollable'
+					className={classes.tabs}>
 					<Tab label='Semester I' {...a11yProps(0)} />
 					<Tab label='Semester II' {...a11yProps(1)} />
 					<Tab label='Semester III' {...a11yProps(2)} />
@@ -136,11 +154,21 @@ const Msc = props => {
 					<Table aria-label='simple table'>
 						<TableHead>
 							<TableRow>
-								<TableCell align='center'>Course Name</TableCell>
-								<TableCell align='center'>L</TableCell>
-								<TableCell align='center'>T</TableCell>
-								<TableCell align='center'>P</TableCell>
-								<TableCell align='center'>Credit</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Course Name
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									L
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									T
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									P
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Credit
+								</TableCell>
 							</TableRow>
 						</TableHead>
 						<TableBody>
@@ -197,11 +225,21 @@ const Msc = props => {
 					<Table aria-label='simple table'>
 						<TableHead>
 							<TableRow>
-								<TableCell align='center'>Course Name</TableCell>
-								<TableCell align='center'>L</TableCell>
-								<TableCell align='center'>T</TableCell>
-								<TableCell align='center'>P</TableCell>
-								<TableCell align='center'>Credit</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Course Name
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									L
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									T
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									P
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Credit
+								</TableCell>
 							</TableRow>
 						</TableHead>
 						<TableBody>
@@ -267,11 +305,21 @@ const Msc = props => {
 					<Table aria-label='simple table'>
 						<TableHead>
 							<TableRow>
-								<TableCell align='center'>Course Name</TableCell>
-								<TableCell align='center'>L</TableCell>
-								<TableCell align='center'>T</TableCell>
-								<TableCell align='center'>P</TableCell>
-								<TableCell align='center'>Credit</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Course Name
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									L
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									T
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									P
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Credit
+								</TableCell>
 							</TableRow>
 						</TableHead>
 						<TableBody>
@@ -339,11 +387,21 @@ const Msc = props => {
 					<Table aria-label='simple table'>
 						<TableHead>
 							<TableRow>
-								<TableCell align='center'>Course Name</TableCell>
-								<TableCell align='center'>L</TableCell>
-								<TableCell align='center'>T</TableCell>
-								<TableCell align='center'>P</TableCell>
-								<TableCell align='center'>Credit</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Course Name
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									L
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									T
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									P
+								</TableCell>
+								<TableCell align='center' className={classes.tableHead}>
+									Credit
+								</TableCell>
 							</TableRow>
 						</TableHead>
 						<TableBody>
@@ -388,27 +446,27 @@ const Msc = props => {
 				</TableContainer>
 			</TabPanel>
 			<div className='download'>
-				<span>* New regulation w.e.f. 2019</span>
-				<span>
-					Click{' '}
-					<a
-						href='https://drive.google.com/file/d/187GmRa8Wni1Vit1I_amDl3s7nqBqnFZI/view?usp=drivesdk'
-						target='_blank'
-						rel='noreferrer'>
-						here
-					</a>{' '}
-					to download the detailed course structure and syllabus.
-				</span>
-				<span>
-					Click{' '}
-					<a
-						href='http://www.nits.ac.in/academics/info/Regulations/MSc_Regulation2019.pdf'
-						target='_blank'
-						rel='noreferrer'>
-						here
-					</a>{' '}
-					to download the latest rules and regulations.
-				</span>
+				* New regulation w.e.f. 2019
+				<br />
+				Click{' '}
+				<a
+					href='https://drive.google.com/file/d/187GmRa8Wni1Vit1I_amDl3s7nqBqnFZI/view?usp=drivesdk'
+					target='_blank'
+					rel='noreferrer'
+					className='bold'>
+					here
+				</a>{' '}
+				to download the detailed course structure and syllabus.
+				<br />
+				Click{' '}
+				<a
+					href='http://www.nits.ac.in/academics/info/Regulations/MSc_Regulation2019.pdf'
+					target='_blank'
+					rel='noreferrer'
+					className='bold'>
+					here
+				</a>{' '}
+				to download the latest rules and regulations.
 			</div>
 		</main>
 	);
