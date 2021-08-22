@@ -33,6 +33,7 @@ const DevTeam = (props) => {
             <ContactCard
               key={d.name}
               img={d.img}
+              desg={d.desg}
               name={d.name}
               links={d.links}
             />

@@ -16,7 +16,7 @@ import { Email, GitHub, LinkedIn } from "@material-ui/icons";
 import useStyles from "./css/ContactCard.styles";
 
 const ContactCard = (props) => {
-  const { name, links, img } = props;
+  const { name, links, img, desg } = props;
   const classes = useStyles();
   return (
     <Card className={classes.root}>
@@ -31,9 +31,17 @@ const ContactCard = (props) => {
           >
             {name}
           </Typography>
+          <Typography
+            variant="body2"
+            component="p"
+            className={classes.contactDetails}
+            color="textSecondary"
+          >
+            {desg}
+          </Typography>
         </CardContent>
       </CardActionArea>
-      <CardActions className={classes.contactDetails}>
+      <CardActions className={classes.contactLinks}>
         <a rel="noreferrer" target="_blank" href={links.github}>
           <GitHub style={{ fontSize: "2.5rem" }}></GitHub>
         </a>

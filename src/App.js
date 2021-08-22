@@ -21,6 +21,7 @@ const Phd = lazy(() => import("./pages/Phd"));
 const Msc = lazy(() => import("./pages/Msc"));
 const Btech = lazy(() => import("./pages/Btech"));
 const Gallery = lazy(() => import("./pages/Gallery"));
+const ReachUs = lazy(() => import("./pages/ReachUs"));
 const Footer = lazy(() => import("./components/Footer"));
 
 function App() {
@@ -81,6 +82,10 @@ function App() {
 
             <Route exact path="/gallery">
               <Gallery title="Gallery - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/reach-us">
+              <ReachUs title="Reach Us - Physics Dept. | NIT Silchar" />
             </Route>
 
             <Route path="/">

@@ -12,7 +12,12 @@ const useStyles = makeStyles((theme) => ({
     marginTop: "2rem",
   },
   contactName: { textAlign: "center" },
-  contactDetails: { justifyContent: "space-around" },
+  contactDetails: {
+    textAlign: "center",
+    textTransform: "uppercase",
+    fontSize: "small",
+  },
+  contactLinks: { justifyContent: "space-around" },
   contactIcon: { fontSize: "3rem" },
 }));
 
