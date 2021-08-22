@@ -20,4 +20,14 @@ main.about-us {
 		text-align: justify;
 		font-size: 2.6vh;
 	}
+
+	@media screen and (max-width: 500px) {
+		div.msg {
+			width: 100%;
+		}
+
+		div.contact {
+			text-align: center;
+		}
+	}
 }

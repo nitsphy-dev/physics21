@@ -18,12 +18,14 @@ html {
 
 :root {
 	/*? Heights */
-	--navbar-height-pc: 7vh;
+	--navbar-height-pc: 9vh;
 	--navbar-height-mob: 10vh;
 	--footer-height-pc: 7vh;
 
 	/*? Color Themes */
 	--theme1-100: #8135f3;
+	--theme1-070: rgba(129, 53, 243, 0.7);
+	--theme1-030: rgba(129, 53, 243, 0.3);
 	--theme2-100: #2c2f33;
 	--theme3-100: #f8f8f8;
 	--theme4-100: #3f3f3f;

@@ -35,4 +35,10 @@ div.photo-gallery {
 			}
 		}
 	}
+
+	@media screen and (max-width: 500px) {
+		div.photo-gallery-itm {
+			height: 25vh;
+		}
+	}
 }

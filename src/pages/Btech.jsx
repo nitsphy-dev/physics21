@@ -85,7 +85,7 @@ const Btech = props => {
 				offered to first year B. Tech. students of all branches.
 			</p>
 
-			<div className='course-heading heading'>Physics (PH 101)</div>
+			<div className='course-heading sub-heading'>Physics (PH 101)</div>
 			<div className='course-objectives msg'>
 				<ol>
 					<li>
@@ -310,7 +310,9 @@ const Btech = props => {
 					Magnetoresistance
 				</div>
 			</TabPanel>
-			<div className='course-heading heading'>Physics Laboratory (PH 111)</div>
+			<div className='course-heading sub-heading'>
+				Physics Laboratory (PH 111)
+			</div>
 			<div className='course-objectives msg'>
 				<ol>
 					<li>
@@ -370,6 +372,7 @@ const Btech = props => {
 			</div>
 			<div className='download'>
 				* New regulation w.e.f. 2018
+				<br />
 				<br />
 				Click{' '}
 				<a

@@ -40,6 +40,16 @@ main#home {
 			margin: 0 auto;
 		}
 
+		@media screen and (max-width: 500px) {
+			div.heading {
+				width: 90%;
+				text-align: center;
+				font-size: 4vh;
+				border-bottom: 0.2vh solid var(--theme1-100);
+				margin: 0 auto;
+			}
+		}
+
 		div.about-msg {
 			min-width: 90%;
 			max-width: 90%;
@@ -84,6 +94,19 @@ main#home {
 			font-size: 3.2vh;
 			border-bottom: 0.2vh solid var(--theme1-100);
 			margin: 1vh auto 2vh auto;
+		}
+	}
+
+	@media screen and (max-width: 500px) {
+		div.latest {
+			flex-direction: column;
+
+			div.updates,
+			div.events {
+				min-width: 97.5%;
+				max-width: 97.5%;
+				padding: 4vw;
+			}
 		}
 	}
 }

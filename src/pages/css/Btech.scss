@@ -17,8 +17,20 @@ main.btech {
 		text-align: center;
 	}
 
+	@media screen and (max-width: 500px) {
+		div.sub-heading {
+			font-size: 6vw;
+		}
+	}
+
 	.title {
 		font-size: 4.5vh !important;
+	}
+
+	@media screen and (max-width: 500px) {
+		div.title {
+			font-size: 6.5vw !important;
+		}
 	}
 
 	div.msg,
@@ -31,11 +43,27 @@ main.btech {
 		font-size: 2.6vh;
 	}
 
+	@media screen and (max-width: 500px) {
+		div.msg,
+		p.msg {
+			padding: 2vw 5vw;
+			width: 100%;
+		}
+	}
+
 	div.download {
 		color: black;
 		margin: 2vh auto;
 		text-align: center;
 		font-weight: bolder;
+	}
+
+	@media screen and (max-width: 500px) {
+		div.download {
+			font-size: 3.5vw;
+			padding: 2vw;
+			box-sizing: border-box;
+		}
 	}
 
 	ol li {

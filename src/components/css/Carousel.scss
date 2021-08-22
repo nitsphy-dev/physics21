@@ -77,3 +77,38 @@ div.carousel {
 		}
 	}
 }
+
+@media screen and (max-width: 500px) {
+	div.carousel {
+		margin: 2vw auto;
+		height: 40vw;
+		width: 80%;
+
+		div.btn {
+			height: 9vw;
+			aspect-ratio: 1/1;
+			font-size: 6vw;
+			z-index: +5;
+		}
+
+		div.img {
+			width: 97.5%;
+
+			img {
+				width: 100%;
+				height: auto;
+				border-radius: 1.5vw;
+			}
+		}
+
+		div.tracker {
+			top: 97%;
+			height: 0.5vw;
+
+			div.tracker-itm {
+				height: 100%;
+				margin: 0 1vw;
+			}
+		}
+	}
+}
