@@ -12,6 +12,11 @@ const Home = lazy(() => import("./pages/Home"));
 const AboutUs = lazy(() => import("./pages/AboutUs"));
 const Admissions = lazy(() => import("./pages/Admissions"));
 const Faculty = lazy(() => import("./pages/Faculty"));
+const NonTeachingStaff = lazy(() => import("./pages/NonTeachingStaff"));
+const PhdScholars = lazy(() => import("./pages/PhdScholars"));
+const MscScholars = lazy(() => import("./pages/MscScholars"));
+const Alumni = lazy(() => import("./pages/Alumni"));
+const DevTeam = lazy(() => import("./pages/DevTeam"));
 const Phd = lazy(() => import("./pages/Phd"));
 const Msc = lazy(() => import("./pages/Msc"));
 const Btech = lazy(() => import("./pages/Btech"));
@@ -40,6 +45,26 @@ function App() {
 
             <Route exact path="/people/faculty">
               <Faculty title="Faculty - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/people/non-teaching-staff">
+              <NonTeachingStaff title="Non-Teaching Staff - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/people/phd-scholars">
+              <PhdScholars title="Ph.D Scholars - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/people/msc-scholars">
+              <MscScholars title="M.Sc. Scholars - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/people/alumni">
+              <Alumni title="Alumni - Physics Dept. | NIT Silchar" />
+            </Route>
+
+            <Route exact path="/people/dev-team">
+              <DevTeam title="Dev Team - Physics Dept. | NIT Silchar" />
             </Route>
 
             <Route exact path="/programs/phd">
