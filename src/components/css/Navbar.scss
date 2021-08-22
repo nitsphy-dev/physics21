@@ -176,7 +176,7 @@
 			div.drpdwn-menu {
 				top: 100%;
 				width: 100%;
-				display: flex;
+				display: none;
 				flex-direction: column;
 				margin-top: 2vh;
 
@@ -191,6 +191,13 @@
 					align-items: center;
 					border-radius: 2vw;
 				}
+			}
+
+			span.drpdwn-title:focus-within {
+				// div.drpdwn-menu {
+				// 	display: flex;
+				// }
+				color: red;
 			}
 		}
 	}

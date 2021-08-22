@@ -8,7 +8,6 @@ import './css/Navbar.scss';
 //* React Component
 const Navbar = () => {
 	const [mobNav, setMobNav] = useState(false);
-	const [dropdown, setDropDown] = useState([false, false, false]);
 
 	useEffect(() => {
 		if (window.innerWidth >= 500) setMobNav(true);
@@ -63,109 +62,73 @@ const Navbar = () => {
 					</Link>
 
 					{/* Navbar Dropdown */}
-					{/**
-					 * Navbar Dropdowns have a bit of brute force implementation
-					 * The indexes of the corresponding dropdown need to be updated
-					 * manually.
-					 *
-					 * Also the old list needs to be copied to a new array in every dropdown
-					 * or React will see that as the old array (just with an element change)
-					 * and thus not re-render a component.
-					 */}
-					<span
-						className='navbar-itm scrl-top drpdwn'
-						onClick={() => {
-							setDropDown(oldList => {
-								let newList = [...oldList];
-								newList[0] = !newList[0];
-								return newList;
-							});
-						}}>
+					<span className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							People&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
-						{dropdown[0] && (
-							<div className='drpdwn-menu'>
-								<Link to='/people/faculty' className='drpdwn-itm'>
-									Faculty
-								</Link>
-								<Link to='/people/non-teaching-staff' className='drpdwn-itm'>
-									Non-Teaching Staff
-								</Link>
-								<Link to='/people/phd-scholars' className='drpdwn-itm'>
-									Ph.D. Scholars
-								</Link>
-								<Link to='/people/msc-scholars' className='drpdwn-itm'>
-									M.Sc. Students
-								</Link>
-								<Link to='/people/alumni' className='drpdwn-itm'>
-									Alumni
-								</Link>
-								<Link to='/people/dev-team' className='drpdwn-itm'>
-									Dev Team
-								</Link>
-							</div>
-						)}
+						<div className='drpdwn-menu'>
+							<Link to='/people/faculty' className='drpdwn-itm scrl-top'>
+								Faculty
+							</Link>
+							<Link
+								to='/people/non-teaching-staff'
+								className='drpdwn-itm scrl-top'>
+								Non-Teaching Staff
+							</Link>
+							<Link to='/people/phd-scholars' className='drpdwn-itm scrl-top'>
+								Ph.D. Scholars
+							</Link>
+							<Link to='/people/msc-scholars' className='drpdwn-itm scrl-top'>
+								M.Sc. Students
+							</Link>
+							<Link to='/people/alumni' className='drpdwn-itm scrl-top'>
+								Alumni
+							</Link>
+							<Link to='/people/dev-team' className='drpdwn-itm scrl-top'>
+								Dev Team
+							</Link>
+						</div>
 					</span>
 
-					<span
-						className='navbar-itm scrl-top drpdwn'
-						onClick={() => {
-							setDropDown(oldList => {
-								let newList = [...oldList];
-								newList[1] = !newList[1];
-								return newList;
-							});
-						}}>
+					<span className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							Programs&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
-						{dropdown[1] && (
-							<div className='drpdwn-menu'>
-								<Link to='/programs/phd' className='drpdwn-itm'>
-									Doctoral Programs
-								</Link>
-								<Link to='/programs/msc' className='drpdwn-itm'>
-									Postgraduate Programs
-								</Link>
-								<Link to='/programs/btech' className='drpdwn-itm'>
-									Bachelor Programs
-								</Link>
-							</div>
-						)}
+						<div className='drpdwn-menu'>
+							<Link to='/programs/phd' className='drpdwn-itm scrl-top'>
+								Doctoral Programs
+							</Link>
+							<Link to='/programs/msc' className='drpdwn-itm scrl-top'>
+								Postgraduate Programs
+							</Link>
+							<Link to='/programs/btech' className='drpdwn-itm scrl-top'>
+								Bachelor Programs
+							</Link>
+						</div>
 					</span>
 
-					<span
-						className='navbar-itm scrl-top drpdwn'
-						onClick={() => {
-							setDropDown(oldList => {
-								let newList = [...oldList];
-								newList[2] = !newList[2];
-								return newList;
-							});
-						}}>
+					<span className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							Research&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
-						{dropdown[2] && (
-							<div className='drpdwn-menu'>
-								<Link to='/research/areas' className='drpdwn-itm'>
-									Research Areas
-								</Link>
-								<Link to='/research/facilities' className='drpdwn-itm'>
-									R&D Facilities
-								</Link>
-								<Link to='/research/projects' className='drpdwn-itm'>
-									Sponsored Projects
-								</Link>
-								<Link to='/research/publications' className='drpdwn-itm'>
-									Publications
-								</Link>
-								<Link to='/research/phd-thesis' className='drpdwn-itm'>
-									Ph.D. Thesis
-								</Link>
-							</div>
-						)}
+
+						<div className='drpdwn-menu'>
+							<Link to='/research/areas' className='drpdwn-itm scrl-top'>
+								Research Areas
+							</Link>
+							<Link to='/research/facilities' className='drpdwn-itm scrl-top'>
+								R&D Facilities
+							</Link>
+							<Link to='/research/projects' className='drpdwn-itm scrl-top'>
+								Sponsored Projects
+							</Link>
+							<Link to='/research/publications' className='drpdwn-itm scrl-top'>
+								Publications
+							</Link>
+							<Link to='/research/phd-thesis' className='drpdwn-itm scrl-top'>
+								Ph.D. Thesis
+							</Link>
+						</div>
 					</span>
 
 					<Link to='/downloads' className='navbar-itm scrl-top'>
