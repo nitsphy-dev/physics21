@@ -121,7 +121,9 @@ const Phd = props => {
 			</Timeline>
 
 			<div className='download'>
-				* New regulation w.e.f. 2014 <br />
+				* New regulation w.e.f. 2014
+				<br />
+				<br />
 				Click{' '}
 				<a
 					href='http://www.nits.ac.in/admissions/PG-Admission-2014/PhD_Regulation_July_2014.pdf'

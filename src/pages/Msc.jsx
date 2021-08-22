@@ -448,6 +448,7 @@ const Msc = props => {
 			<div className='download'>
 				* New regulation w.e.f. 2019
 				<br />
+				<br />
 				Click{' '}
 				<a
 					href='https://drive.google.com/file/d/187GmRa8Wni1Vit1I_amDl3s7nqBqnFZI/view?usp=drivesdk'
@@ -457,6 +458,7 @@ const Msc = props => {
 					here
 				</a>{' '}
 				to download the detailed course structure and syllabus.
+				<br />
 				<br />
 				Click{' '}
 				<a

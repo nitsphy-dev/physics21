@@ -371,6 +371,7 @@ const Btech = props => {
 			<div className='download'>
 				* New regulation w.e.f. 2018
 				<br />
+				<br />
 				Click{' '}
 				<a
 					href='http://www.nits.ac.in/academics/info/Regulations/BTech_Regulations_NITS_2018.pdf'
