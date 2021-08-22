@@ -28,8 +28,13 @@ const Home = props => {
 	return (
 		<main id='home'>
 			<div id='title'>
-				<h1>DEPARTMENT OF PHYSICS</h1>
-				<h2>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</h2>
+				<div className='logo'>
+					<img src='/img/logofinal.png'></img>
+				</div>
+				<div className='text'>
+					<h1>DEPARTMENT OF PHYSICS</h1>
+					<h2>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</h2>
+				</div>
 			</div>
 
 			<Carousel imgs={['/img/carouselHome1.jpg', '/img/carouselHome2.jpg']} />

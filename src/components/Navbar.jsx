@@ -15,11 +15,6 @@ const Navbar = () => {
 
 	return (
 		<header className='navbar'>
-			{/* Logo */}
-			<Link className='navbar-logo' to='/'>
-				<img src='/img/nitslogo.png' alt='Img not supported' />
-			</Link>
-
 			{/* Mobile Menu */}
 			<div className='mob-menu'>
 				{!mobNav && (
