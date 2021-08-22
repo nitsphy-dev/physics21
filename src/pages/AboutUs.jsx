@@ -230,7 +230,7 @@ const AboutUs = props => {
 			</div>
 
 			<div className='heading'>Contact</div>
-			<div className='msg'>
+			<div className='msg contact'>
 				Dr. Subhasis Panda,
 				<br />
 				Head of the Department,
