@@ -68,3 +68,32 @@ div.message {
 		font-size: 2.5vh;
 	}
 }
+
+@media screen and (max-width: 500px) {
+	div.message {
+		padding-top: 7.5vw;
+		width: 97.5%;
+
+		flex-direction: column;
+		margin: 3vw 0;
+
+		div.heading {
+			min-width: 80%;
+			text-align: center;
+			font-size: 4vh;
+			border-bottom: 0.2vh solid var(--theme1-100);
+			margin: 0 auto;
+		}
+
+		div.head {
+			display: none;
+		}
+
+		div.msg {
+			min-width: 100%;
+			max-width: 100%;
+			box-sizing: border-box;
+			padding: 5vw;
+		}
+	}
+}
