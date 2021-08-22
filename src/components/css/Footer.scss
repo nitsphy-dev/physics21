@@ -1,8 +1,46 @@
 footer.footer {
 	position: relative;
 	margin-top: 4vh;
-	height: var(--footer-height-pc);
+	min-height: var(--footer-height-pc);
 
 	background-color: var(--theme2-100);
+	border-top: 5px solid var(--theme1-100);
+	box-sizing: border-box;
 	color: var(--theme3-100);
+
+	padding: 3vh 10vh;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+
+	div {
+		margin: 2vh 0;
+	}
+
+	a {
+		color: var(--theme3-100);
+
+		&:hover {
+			color: var(--theme1-100);
+			transition: 0.2s ease-in-out;
+		}
+	}
+
+	div.copyright {
+		color: var(--theme1-100);
+	}
+
+	div.logo {
+		height: 20vh;
+
+		img {
+			height: 100%;
+		}
+	}
+
+	div.copyright {
+		min-width: 100%;
+	}
 }
