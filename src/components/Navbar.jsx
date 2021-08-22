@@ -13,6 +13,15 @@ const Navbar = () => {
 		if (window.innerWidth >= 500) setMobNav(true);
 	}, [mobNav]);
 
+	useEffect(() => {
+		const scrollToTops = document.getElementsByClassName('scrl-top');
+		for (let i = 0; i < scrollToTops.length; i++) {
+			scrollToTops[i].addEventListener('click', () => {
+				document.getElementById('close').click();
+			});
+		}
+	});
+
 	return (
 		<header className='navbar'>
 			{/* Mobile Menu */}

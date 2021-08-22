@@ -29,7 +29,7 @@ const Home = props => {
 		<main id='home'>
 			<div id='title'>
 				<div className='logo'>
-					<img src='/img/logofinal.png'></img>
+					<img src='/img/logofinal.png' alt='NITS'></img>
 				</div>
 				<div className='text'>
 					<h1>DEPARTMENT OF PHYSICS</h1>
