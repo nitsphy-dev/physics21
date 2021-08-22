@@ -1,0 +1,22 @@
+{
+  "devTeam": [
+    {
+      "name": "Saurav Pal",
+      "img": "/img/devTeam/Saurav.jpg",
+      "links": {
+        "github": "https://www.github.com/resyfer",
+        "linkedin": "https://www.linkedin.com/in/resyfer/",
+        "email": "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com"
+      }
+    },
+    {
+      "name": "Pratik Majumdar",
+      "img": "/img/devTeam/Pratik.jpg",
+      "links": {
+        "github": "https://www.github.com/codadept",
+        "linkedin": "https://www.linkedin.com/in/codadept/",
+        "email": "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=info.pratikmajumdar@gmail.com"
+      }
+    }
+  ]
+}

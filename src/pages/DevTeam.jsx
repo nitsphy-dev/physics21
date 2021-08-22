@@ -1,15 +1,8 @@
 // React imports
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 
-// Material-ui imports
-import {
-  Card,
-  CardActionArea,
-  CardActions,
-  CardContent,
-  CardMedia,
-  Typography,
-} from "@material-ui/core";
+// Component imports
+import ContactCard from "../components/ContactCard";
 
 // Style imports
 import "./css/DevTeam.scss";
@@ -18,23 +11,33 @@ const DevTeam = (props) => {
   useEffect(() => {
     document.title = props.title;
   }, [props.title]);
+
+  const [data, setData] = useState(null);
+
+  useEffect(() => {
+    fetch("/db/devTeam.json")
+      .then((response) => response.json())
+      .then((res) => {
+        setData(res.devTeam);
+      });
+  }, []);
+
+  console.log(data);
+
   return (
     <main className="dev-team">
       <div className="heading title">Dev Team</div>
-      <Card style={{ maxWidth: "345px", margin: "auto" }}>
-        <CardActionArea>
-          <CardMedia
-            image="/img/alumni/Nandini.jpeg"
-            title="Nandini"
-            style={{ height: "200px" }}
-          />
-          <CardContent>
-            <Typography variant="h5" gutterBottom component="h2">
-              Nandini
-            </Typography>
-          </CardContent>
-        </CardActionArea>
-      </Card>
+      <div className="dev-team-list">
+        {data &&
+          data.map((d) => (
+            <ContactCard
+              key={d.name}
+              img={d.img}
+              name={d.name}
+              links={d.links}
+            />
+          ))}
+      </div>
     </main>
   );
 };

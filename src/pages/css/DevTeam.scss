@@ -12,6 +12,11 @@ main.dev-team {
     font-size: 4.5vh !important;
   }
 
+  div.dev-team-list {
+    display: flex;
+    justify-content: center;
+  }
+
   div.msg {
     width: 90%;
     margin: 0 auto 7vh auto;
