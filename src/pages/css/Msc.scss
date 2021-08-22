@@ -8,6 +8,12 @@ main.msc {
 		text-align: center;
 	}
 
+	@media screen and (max-width: 500px) {
+		div.heading {
+			font-size: 7.5vw;
+		}
+	}
+
 	div.msg,
 	p.msg {
 		width: 90%;
@@ -23,5 +29,13 @@ main.msc {
 		margin: 2vh auto;
 		text-align: center;
 		font-weight: bolder;
+	}
+
+	@media screen and (max-width: 500px) {
+		div.download {
+			font-size: 3.5vw;
+			padding: 2vw;
+			box-sizing: border-box;
+		}
 	}
 }
