@@ -56,7 +56,7 @@
 				}
 			}
 
-			span.drpdwn {
+			button.drpdwn {
 				position: relative;
 
 				&:hover {
@@ -161,7 +161,7 @@
 			box-sizing: border-box;
 
 			a.navbar-itm,
-			span.drpdwn {
+			button.drpdwn {
 				position: relative;
 				margin: 1vw 0;
 				padding: 3vw 5vw;
@@ -193,11 +193,11 @@
 				}
 			}
 
-			span.drpdwn-title:focus-within {
-				// div.drpdwn-menu {
-				// 	display: flex;
-				// }
-				color: red;
+			button.drpdwn:focus,
+			button.drpdwn:active {
+				div.drpdwn-menu {
+					display: flex;
+				}
 			}
 		}
 	}
@@ -217,4 +217,13 @@
 
 .drpdwn .fa-chevron-down {
 	color: var(--theme1-100) !important;
+}
+
+button.drpdwn {
+	background-color: rgba(0, 0, 0, 0);
+	outline: none;
+	border: none;
+	color: var(--theme3-100);
+	font-size: 2.3vh;
+	margin: 0 1vh;
 }

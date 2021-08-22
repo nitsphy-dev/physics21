@@ -62,7 +62,7 @@ const Navbar = () => {
 					</Link>
 
 					{/* Navbar Dropdown */}
-					<span className='navbar-itm drpdwn'>
+					<button className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							People&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
@@ -88,9 +88,9 @@ const Navbar = () => {
 								Dev Team
 							</Link>
 						</div>
-					</span>
+					</button>
 
-					<span className='navbar-itm drpdwn'>
+					<button className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							Programs&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
@@ -105,9 +105,9 @@ const Navbar = () => {
 								Bachelor Programs
 							</Link>
 						</div>
-					</span>
+					</button>
 
-					<span className='navbar-itm drpdwn'>
+					<button className='navbar-itm drpdwn'>
 						<span className='drpdwn-title'>
 							Research&ensp;<i className='fas fa-chevron-down'></i>
 						</span>
@@ -129,7 +129,7 @@ const Navbar = () => {
 								Ph.D. Thesis
 							</Link>
 						</div>
-					</span>
+					</button>
 
 					<Link to='/downloads' className='navbar-itm scrl-top'>
 						Downloads
