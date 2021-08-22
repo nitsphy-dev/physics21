@@ -48,8 +48,14 @@ div.carousel {
 		left: 50%;
 		transform: translate(-50%, -50%);
 		height: 100%;
+		overflow: hidden;
+		border-radius: 1.5vh;
 
 		img {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
 			height: 100%;
 			width: auto;
 			border-radius: 1.5vh;
@@ -82,13 +88,21 @@ div.carousel {
 	div.carousel {
 		margin: 2vw auto;
 		height: 40vw;
-		width: 80%;
+		width: 90%;
 
 		div.btn {
 			height: 9vw;
 			aspect-ratio: 1/1;
-			font-size: 6vw;
+			font-size: 4vw;
 			z-index: +5;
+		}
+
+		div.left {
+			left: 7.5%;
+		}
+
+		div.right {
+			right: 7.5%;
 		}
 
 		div.img {
