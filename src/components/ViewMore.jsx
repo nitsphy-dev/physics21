@@ -91,7 +91,7 @@ const ViewMore = (props) => {
               </div>
               <div className={classes.dialogContentValue}>
                 <a target="_blank" rel="noreferrer" href={details.profileURL}>
-                  {details.profileURL}
+                  Click here to visit
                 </a>
               </div>
             </div>
@@ -138,7 +138,7 @@ const ViewMore = (props) => {
             <Divider />
             <div className={classes.dialogContentDetail}>
               <div className={classes.dialogContentKey}>
-                Area of Interest/Specialization:
+                Area of Interest/ Specialization:
               </div>
               <div className={classes.dialogContentValue}>
                 {details.experience.specialization}
