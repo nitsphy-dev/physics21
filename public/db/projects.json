@@ -1,0 +1,42 @@
+{
+  "completed": [
+    {
+      "name": "Modernization of thin film laboratory",
+      "org": "AICTE",
+      "time": "2012-2015",
+      "fic": "Prof. Asim Roy"
+    },
+    {
+      "name": "Study of bi-layered perovskite oxide: thin film for nonvolatile ferroelectric memory applications",
+      "org": "AICTE",
+      "time": "2012-2015",
+      "fic": "Prof. Asim Roy"
+    },
+    {
+      "name": "Synthesis & characterization of BST-BFO composites for devices",
+      "org": "AICTE",
+      "time": "2012-2015",
+      "fic": "Dr. S. K. Barik"
+    },
+    {
+      "name": "Energetic Ion beam assisted synthesis of Ag/Au ion implanted Titania/ZnO thin film and investigation of their Utility as Photoanode for Dye Sensitized Solar Cell",
+      "org": "IUAC",
+      "time": "2016-2019",
+      "fic": "Dr. R. G. Nair"
+    },
+    {
+      "name": "Fabrication and Testing of Tandem Layered Quantum Dot Sensitized Solar Cell with Elevated Absorption",
+      "org": "DST",
+      "time": "2016-2019",
+      "fic": "Dr. R. G. Nair & Dr. A. Chowdhury"
+    }
+  ],
+  "ongoing": [
+    {
+      "name": "Development of Physics Research Laboratories under DST-FIST scheme",
+      "org": "DST",
+      "time": "2017-2022",
+      "fic": "Department of Physics"
+    }
+  ]
+}

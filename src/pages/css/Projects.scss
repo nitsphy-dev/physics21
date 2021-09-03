@@ -20,4 +20,10 @@ main.projects {
     text-align: justify;
     font-size: 2.6vh;
   }
+
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
 }

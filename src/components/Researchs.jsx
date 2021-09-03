@@ -6,7 +6,7 @@ import {
   AccordionDetails,
   Typography,
 } from "@material-ui/core";
-import { ExpandMore as ExpandMoreIcon, Widgets } from "@material-ui/icons";
+import { ExpandMore as ExpandMoreIcon } from "@material-ui/icons";
 
 import useStyles from "./css/Researchs.styles";
 
