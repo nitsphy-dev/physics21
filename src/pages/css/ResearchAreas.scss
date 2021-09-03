@@ -1,0 +1,23 @@
+main.research-areas {
+  div.heading {
+    width: 80%;
+    margin: 5vh auto 3vh auto;
+    border-bottom: 0.2vh solid var(--theme1-100);
+
+    font-size: 3.5vh;
+    text-align: center;
+  }
+
+  div.title {
+    font-size: 4.5vh !important;
+  }
+
+  div.msg {
+    width: 90%;
+    margin: 0 auto 7vh auto;
+    box-sizing: border-box;
+    padding: 2vh 4vh;
+    text-align: justify;
+    font-size: 2.6vh;
+  }
+}

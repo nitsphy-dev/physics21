@@ -1,0 +1,123 @@
+{
+  "experiment": [
+    {
+      "name": "Microscience and Nanophysics Laboratory",
+      "fic": "Prof. Asim Roy",
+      "details": [
+        "Semiconductor nanostructure",
+        "Resistive Random Access Memory",
+        "High-k for CMOS Technology",
+        "Neuromorphic computing",
+        "Halide Perovskite Photovoltaics"
+      ],
+      "researchScholars": [
+        {
+          "name": "Ujjal Das",
+          "email": "ujjal_rs@phy.nits.ac.in"
+        },
+        {
+          "name": "Anurag Dehingia",
+          "email": "anurag_rs@phy.nits.ac.in"
+        }
+      ]
+    },
+    {
+      "name": "Multifunctional Materials Laboratory",
+      "fic": "Dr. Subrat Kumar Barik",
+      "details": [
+        "Multiferroics",
+        "Structural phase transitions in oxide perovskites",
+        "Ferroelectric material"
+      ],
+      "researchScholars": [
+        {
+          "name": "Kintali Manohor Prasad",
+          "email": "manoharprasad522@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Solar Energy Material and Testing Laboratory",
+      "fic": "Dr. Ranjith G. Nair",
+      "details": [
+        "Solar Photocatalysis",
+        "Solar Photovoltaics",
+        "Ion Beam Irradiation and Energy materials"
+      ],
+      "researchScholars": [
+        { "name": "Pujita N", "email": "pujita_rs@phy.nits.ac.in" },
+        { "name": "Nikhil S. K.", "email": "nikhil_rs@phy.nits.ac.in" },
+        { "name": "Trinayana Deka", "email": "trinayana_rs@phy.nits.ac.in" },
+        { "name": "Nisha Banerjee", "email": "nisha_rs@phy.nits.ac.in" },
+        { "name": "Ajoy Kumar Dey", "email": "" }
+      ]
+    },
+    {
+      "name": "Solid State Ionics Laboratory",
+      "fic": "Dr. Saumya R. Mohapatra",
+      "details": [
+        "Energy storage devices and materials",
+        "Nanoionics based resistive switching devices"
+      ],
+      "researchScholars": [
+        { "name": "Manjula Nair", "email": "manjula_rs@phy.nits.ac.in" },
+        { "name": "Rajesh Deb", "email": "rajesh_rs@phy.nits.ac.in" },
+        { "name": "Farhana Yasmin", "email": "" }
+      ]
+    },
+    {
+      "name": "Organic Electronics and Sensor Laboratory",
+      "fic": "Dr. Avijit Chowdhury",
+      "details": [
+        "Dark and Photoconductivity of Organometallic and Polymeric Materials",
+        "Polymer Nanocomposites",
+        "Semiconductor Heterostructures and Devices",
+        "Thin Films and Nanostructured Materials",
+        "Semiconductor Nanocrystals and DSSCs",
+        "Resistive memory devices"
+      ],
+      "researchScholars": [
+        { "name": "Suma Das", "email": "suma_rs@phy.nits.ac.in" },
+        { "name": "Nipom Sekhar Das", "email": "nipom_rs@phy.nits.ac.in" }
+      ]
+    },
+    {
+      "name": "Crystal Research Laboratory",
+      "fic": "Dr. P. Srinivasan",
+      "details": [
+        "Bulk Crystal Growth",
+        "Nonlinear Optics",
+        "Nanofibers",
+        "Image Processing"
+      ],
+      "researchScholars": [{ "name": "Arindam Roy", "email": "" }]
+    }
+  ],
+  "theory": [
+    {
+      "name": "High Energy Physics - Theory",
+      "fic": "Dr. Rupak Dutta",
+      "details": [
+        "B Physics and CP violation",
+        "Neutrino oscillation phenomenology"
+      ],
+      "researchScholars": [
+        { "name": "Rajeev N.", "email": "rajeev_rs@phy.nits.ac.in" },
+        { "name": "Nilakshi Das", "email": "nilakshi_rs@phy.nits.ac.in" },
+        { "name": "Iffat Ara Mazumder", "email": "iffat_rs@phy.nits.ac.in" }
+      ]
+    },
+    {
+      "name": "Computational Condensed Matter Physics",
+      "fic": "Dr. Subhasis Panda",
+      "details": [
+        "DFT study of material for optoelectronic applications",
+        "Boundary Perturbation Theory",
+        "Theoretical Physics and Fuzzy sets"
+      ],
+      "researchScholars": [
+        { "name": "Anupriya Nyayban", "email": "anupriya_rs@phy.nits.ac.in" }
+      ]
+    }
+  ]
+}
