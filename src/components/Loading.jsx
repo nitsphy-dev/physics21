@@ -1,10 +1,13 @@
-const Loading = () => {
+import { CircularProgress } from "@material-ui/core";
 
+import "./css/Loading.scss";
+
+const Loading = () => {
   return (
     <div className="loading">
-      Loading...
+      <CircularProgress className="loader" />
     </div>
-  )
-}
+  );
+};
 
 export default Loading;
