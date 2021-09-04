@@ -23,6 +23,11 @@ const useStyles = makeStyles((theme) => ({
     fontWeight: "bold",
     fontSize: "1.2rem",
   },
+  "@media screen and (max-width: 800px)": {
+    root: {
+      width: "80%",
+    },
+  },
 }));
 
 export default useStyles;

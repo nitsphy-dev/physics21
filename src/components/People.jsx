@@ -49,7 +49,7 @@ const People = (props) => {
             src={img}
             className={classes.facultyImg}
           />
-          <div>
+          <div className={classes.facultyDetailsMore}>
             <Typography>
               <b>{desg}</b> <br />
               Department: PHYSICS <br />

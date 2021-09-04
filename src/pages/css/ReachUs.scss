@@ -77,12 +77,32 @@ main.reach-us {
   .moc {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     .moc-card {
       width: 25%;
       margin: 1rem;
     }
     img {
       height: 25vh;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    div.feedback {
+      flex-direction: column;
+    }
+    div.feedbackMsg {
+      width: 90% !important;
+      margin: 0 auto !important;
+    }
+    .feedbackMobView {
+      display: none;
+    }
+    .feedbackForm {
+      width: 90% !important;
+      margin: auto;
+    }
+    .moc-card {
+      width: 90% !important;
     }
   }
 }

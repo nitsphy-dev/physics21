@@ -35,6 +35,15 @@ const useStyles = makeStyles((theme) => ({
     width: "15vh",
     height: "15vh",
   },
+  "@media screen and (max-width: 500px)": {
+    facultyDetails: {
+      flexDirection: "column",
+    },
+    facultyDetailsMore: {
+      textAlign: "center",
+      marginTop: "1rem",
+    },
+  },
 }));
 
 export default useStyles;

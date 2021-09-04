@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    width: "15vw",
+    width: "25vh",
     margin: "1vw",
   },
   contactImg: {
@@ -19,6 +19,11 @@ const useStyles = makeStyles((theme) => ({
   },
   contactLinks: { justifyContent: "space-around" },
   contactIcon: { fontSize: "3rem" },
+  "@media screen and (max-width: 500px)": {
+    root: {
+      width: "45%",
+    },
+  },
 }));
 
 export default useStyles;

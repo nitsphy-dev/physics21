@@ -47,6 +47,14 @@ const useStyles = makeStyles((theme) => ({
     margin: "0.8rem auto",
     fontSize: "2vh",
   },
+  "@media screen and (max-width: 500px)": {
+    dialogContentMain: {
+      flexDirection: "column",
+    },
+    dialogContentHeader: {
+      marginTop: "1rem",
+    },
+  },
 }));
 
 export default useStyles;

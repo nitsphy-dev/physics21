@@ -33,7 +33,7 @@ main.admissions {
 
   div.contact-heading {
     font-size: 3vh;
-    width: 30%;
+    width: 60%;
   }
 
   div.contact {
@@ -62,5 +62,50 @@ main.admissions {
     padding: 2vh 4vh;
     text-align: justify;
     font-size: 2.6vh;
+  }
+
+  @media screen and (max-width: 800px) {
+    div.heading {
+      font-size: 3vh !important;
+    }
+    div.title {
+      font-size: 4vh !important;
+    }
+    div.msg {
+      font-size: 2.2vh !important;
+    }
+    div.contact-details {
+      font-size: 2vh !important;
+    }
+    div.important-msg {
+      font-size: 2.6vh !important;
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    div.contact-heading {
+      width: 80%;
+    }
+    div.contact {
+      flex-direction: column;
+      align-items: center;
+      width: 80%;
+    }
+    div.contact-details {
+      margin-bottom: 2rem;
+      width: 100% !important;
+    }
+    div.heading {
+      font-size: 2.8vh !important;
+    }
+    div.title {
+      font-size: 3.8vh !important;
+    }
+    div.msg {
+      font-size: 2.2vh !important;
+    }
+    div.important-msg {
+      font-size: 2.4vh !important;
+    }
   }
 }

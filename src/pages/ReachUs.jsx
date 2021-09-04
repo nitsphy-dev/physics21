@@ -49,7 +49,7 @@ const ReachUs = (props) => {
           </Card>
         </div>
         <div className="feedbackForm">
-          <Divider orientation="vertical" />
+          <Divider orientation="vertical" className="feedbackMobView" />
           <div className="feedbackDetails">
             <Typography variant="h4">Head of the department</Typography>
             <Divider />
