@@ -1,4 +1,18 @@
 {
+	"hod": {
+		"img": "/img/headImg.jpg",
+		"name": "Dr. Subhashis Panda",
+		"title": "Head, Department of Physics",
+		"phone": "8399920286",
+		"mail": "hod@phy.nits.ac.in",
+		"message": [
+			"Welcome to the Department of Physics at NIT Silchar!",
+			"Department of Physics, NIT Silchar is engaged in research and teaching at the frontier areas of experimental and theoretical physics. The Department has made its mark at the national and international levels by participating in numerous conferences and publishing quality scientific papers. Our faculties are also engaged in collaborative research with other departments in the NIT Silchar as well as with different R&D institutions in the country and abroad.",
+			"Currently, there is a strong foundation laid out for undergraduate and master students alongside doctoral research training. The Department is thriving on high-quality research done in our well-equipped research labs. Recently, in 2017, the Department was funded by DST under the DST-FIST scheme for five years. We are striving for capacity building of our R&D infrastructures to cater experimental and computational research needs in the department as well as to support the research community in this region. Over the years, the Department has also produced several bright students who are now working at well-known institutes in India and abroad.",
+			"Apart from the regular curricula, Department frequently engages itself by arranging formal and informal meetings by inviting experts to motivate our students. The outreach activity such as annual science day celebration has become an integral part of departmental activities, which encourages students to express innovative ideas through talks and demonstrations. This program also nurtures the nearby school students with curiosity and scientific temperaments. In addition, our students arrange various cultural activities in the department mainly to bring in a sense of family among us. The Department proudly cherishes the cordial bonding among the faculties, students and staff."
+		]
+	},
+	"aboutDept": "The Department of Physics is actively involved in the research in the emerging areas of science and technology. Since its inception, the department of physics has provided both basic and engineering-oriented physics theory and practical courses for the B. Tech 1st year students. Presently, M.Sc. and Ph.D. programme are also going on in the department. Broad areas of expertise available in the department are Solid State Gas Sensors, Carrier Transport in Thin Films, Ferroelectrics and related materials, Multiferroics, Solar Energy Materials, Liquid Crystals, Semiconductor Nanostructure and Devices, Polymer Nanocomposites, Solar Photocatalysis, Solar Energy Materials, Energy storage devices and materials, Nanoionics based resistive switching devices, Theoretical Physics, Theoretical Nuclear and Particle Physics, etc.",
 	"updates": [
 		{
 			"text": "Modernization of thin film laboratory under the supervision of Dr. Asim Roy (10 lakhs)",
@@ -32,5 +46,6 @@
 			"link": "#",
 			"new": false
 		}
-	]
+	],
+	"images": ["/img/carouselHome1.jpg", "/img/carouselHome2.jpg"]
 }

@@ -25,6 +25,8 @@ const Home = props => {
 			});
 	}, []);
 
+	console.log(data);
+
 	return (
 		<main id='home'>
 			<div id='title'>
@@ -34,42 +36,35 @@ const Home = props => {
 				<div className='text'>
 					<h1>DEPARTMENT OF PHYSICS</h1>
 					<h2>NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR</h2>
+					<h3>राष्ट्रीय प्रौद्योगिकी संस्थान सिलचर</h3>
 				</div>
 			</div>
 
-			<Carousel imgs={['/img/carouselHome1.jpg', '/img/carouselHome2.jpg']} />
+			{data && <Carousel imgs={data.images} />}
 
 			<div className='about-dept'>
 				<div className='heading'>About The Department Of Physics</div>
-				<div className='about-msg'>
-					The Department of Physics is actively involved in the research in the
-					emerging areas of science and technology. Since its inception, the
-					department of physics has provided both basic and engineering-oriented
-					physics theory and practical courses for the B. Tech 1st year
-					students. Presently, M.Sc. and Ph.D. programme are also going on in
-					the department. Broad areas of expertise available in the department
-					are Solid State Gas Sensors, Carrier Transport in Thin Films,
-					Ferroelectrics and related materials, Multiferroics, Solar Energy
-					Materials, Liquid Crystals, Semiconductor Nanostructure and Devices,
-					Polymer Nanocomposites, Solar Photocatalysis, Solar Energy Materials,
-					Energy storage devices and materials, Nanoionics based resistive
-					switching devices, Theoretical Physics, Theoretical Nuclear and
-					Particle Physics, etc.
-				</div>
+				<div className='about-msg'>{data && data.aboutDept}</div>
 			</div>
 
-			<Message
-				msg={`
-				The Department of Physics is actively involved in the research in the emerging areas of science and technology. Since its inception, the department of physics has provided both basic and engineering-oriented physics theory and practical courses for the B. Tech 1st year students. Presently, M.Sc. and Ph.D. programme are also going on in the department. Broad areas of expertise available in the department are Solid State Gas Sensors, Carrier Transport in Thin Films, Ferroelectrics and related materials, Multiferroics, Solar Energy Materials, Liquid Crystals, Semiconductor Nanostructure and Devices, Polymer Nanocomposites, Solar Photocatalysis, Solar Energy Materials, Energy storage devices and materials, Nanoionics based resistive switching devices, Theoretical Physics, Theoretical Nuclear and Particle Physics, etc.
-				`}
-				head={{
-					img: '/img/headImg.jpg',
-					name: 'Dr. Subhashis Panda',
-					title: 'Head, Department of Physics',
-					phone: '8399920286',
-					mail: 'hod@phy.nits.ac.in',
-				}}
-			/>
+			{data && (
+				<Message
+					msg={data.hod.message.map((para, paraIndex) => (
+						<React.Fragment key={paraIndex}>
+							{para}
+							<br />
+							<br />
+						</React.Fragment>
+					))}
+					head={{
+						img: data.hod.img,
+						name: data.hod.name,
+						title: data.hod.title,
+						phone: data.hod.phone,
+						mail: data.hod.mail,
+					}}
+				/>
+			)}
 
 			<div className='latest'>
 				<div className='updates'>
