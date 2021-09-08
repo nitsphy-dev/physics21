@@ -20,4 +20,44 @@ main.download {
     text-align: justify;
     font-size: 2.6vh;
   }
+  .download-list {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .download-card {
+      width: 25%;
+      margin: 1rem;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 6px 6px 20px rgb(207, 207, 207);
+      text-align: center;
+
+      embed {
+        width: 100%;
+        height: 20rem;
+      }
+
+      a {
+        padding: 0.5rem 1rem;
+        border-radius: 12px;
+        background-color: var(--theme1-100);
+        color: white;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .download-card {
+    width: 40% !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .download-card {
+    width: 100% !important;
+  }
 }

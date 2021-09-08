@@ -10,7 +10,7 @@ const MscScholars = (props) => {
   }, [props.title]);
   return (
     <main className="msc-scholars">
-      <div className="heading title">M. Sc. Scholars</div>
+      <div className="heading title">M. Sc. Students</div>
     </main>
   );
 };

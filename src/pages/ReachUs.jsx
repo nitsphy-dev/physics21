@@ -51,7 +51,7 @@ const ReachUs = (props) => {
         <div className="feedbackForm">
           <Divider orientation="vertical" className="feedbackMobView" />
           <div className="feedbackDetails">
-            <Typography variant="h4">Head of the department</Typography>
+            <Typography variant="h4">Head of the Department</Typography>
             <Divider />
             <br />
             <Typography variant="body1">
