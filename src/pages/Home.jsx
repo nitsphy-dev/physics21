@@ -43,7 +43,7 @@ const Home = props => {
 			{data && <Carousel imgs={data.images} />}
 
 			<div className='about-dept'>
-				<div className='heading'>About The Department Of Physics</div>
+				<div className='heading'>About The Department</div>
 				<div className='about-msg'>{data && data.aboutDept}</div>
 			</div>
 

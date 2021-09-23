@@ -19,7 +19,6 @@ const Downloads = (props) => {
   return (
     <main className="download">
       <div className="heading title">Downloads</div>
-      <div className="heading">M. Sc. Download Section</div>
       <div className="download-list">
         {data &&
           data.files.map((f, i) => (
